@@ -1,0 +1,801 @@
+{
+    "orphans": [],
+    "diagram": {
+        "width": 2129,
+        "height": 2598,
+        "name": "Welcome Model",
+        "customProperties": {
+            "Description": "Welcome to the piStar tool! This model describe some of the recent improvements in the tool.\n\nFor help using this tool, please check the Help menu above"
+        }
+    },
+    "display": {
+        "0a4bed0d-edd4-4842-9072-098998afd156": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "8d390f74-a255-43e8-9072-098998afd156": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "66290d6f-0df4-41e7-9072-098998afd156": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "0a4bed0d-edd4-4842-b934-6c606320e89b": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "8d390f74-a255-43e8-b934-6c606320e89b": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "7b3c78cc-5ed4-430b-b934-6c606320e89b": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "8d390f74-a255-43e8-8156-7b247145731f": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "0a4bed0d-edd4-4842-8156-7b247145731f": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "c9d7be9c-e52e-4719-8156-7b247145731f": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "0a4bed0d-edd4-4842-a81d-4b94c01af0c1": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "8d390f74-a255-43e8-a81d-4b94c01af0c1": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "1a24465b-0b32-4611-a81d-4b94c01af0c1": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "0a4bed0d-edd4-4842-9474-2480a93dd550": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "8d390f74-a255-43e8-9474-2480a93dd550": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "e43f5123-6ed7-4104-9474-2480a93dd550": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "0a4bed0d-edd4-4842-a328-e861748351e5": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "8d390f74-a255-43e8-a328-e861748351e5": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "f87736a1-7cc5-4d1f-a328-e861748351e5": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        }
+    },
+    "actors": [
+        {
+            "id": "0a4bed0d-edd4-4842-9072-098998afd156",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 98,
+            "y": 301,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "8d390f74-a255-43e8-9072-098998afd156",
+            "text": "携程",
+            "type": "istar.Actor",
+            "x": 542,
+            "y": 301,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": "收入\n100\n100"
+            },
+            "nodes": []
+        },
+        {
+            "id": "66290d6f-0df4-41e7-9072-098998afd156",
+            "text": "酒店",
+            "type": "istar.Actor",
+            "x": 1225,
+            "y": 301,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": "925"
+            },
+            "nodes": []
+        },
+        {
+            "id": "0a4bed0d-edd4-4842-b934-6c606320e89b",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 98,
+            "y": 127,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "8d390f74-a255-43e8-b934-6c606320e89b",
+            "text": "携程",
+            "type": "istar.Actor",
+            "x": 542,
+            "y": 127,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": "收入\n100\n100"
+            },
+            "nodes": []
+        },
+        {
+            "id": "7b3c78cc-5ed4-430b-b934-6c606320e89b",
+            "text": "航空公司",
+            "type": "istar.Actor",
+            "x": 1074,
+            "y": 127,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "8d390f74-a255-43e8-8156-7b247145731f",
+            "text": "携程",
+            "type": "istar.Actor",
+            "x": 542,
+            "y": 575,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": "收入\n100\n100"
+            },
+            "nodes": []
+        },
+        {
+            "id": "0a4bed0d-edd4-4842-8156-7b247145731f",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 98,
+            "y": 575,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "c9d7be9c-e52e-4719-8156-7b247145731f",
+            "text": "景点",
+            "type": "istar.Actor",
+            "x": 1116,
+            "y": 575,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "0a4bed0d-edd4-4842-a81d-4b94c01af0c1",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 98,
+            "y": 709,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "8d390f74-a255-43e8-a81d-4b94c01af0c1",
+            "text": "携程",
+            "type": "istar.Actor",
+            "x": 542,
+            "y": 709,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": "收入\n100\n100"
+            },
+            "nodes": []
+        },
+        {
+            "id": "1a24465b-0b32-4611-a81d-4b94c01af0c1",
+            "text": "租车公司",
+            "type": "istar.Actor",
+            "x": 1046,
+            "y": 709,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "0a4bed0d-edd4-4842-9474-2480a93dd550",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 98,
+            "y": 835,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "8d390f74-a255-43e8-9474-2480a93dd550",
+            "text": "携程",
+            "type": "istar.Actor",
+            "x": 542,
+            "y": 835,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": "收入\n100\n100"
+            },
+            "nodes": []
+        },
+        {
+            "id": "e43f5123-6ed7-4104-9474-2480a93dd550",
+            "text": "铁路公司",
+            "type": "istar.Actor",
+            "x": 998,
+            "y": 835,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "0a4bed0d-edd4-4842-a328-e861748351e5",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 98,
+            "y": 958,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "8d390f74-a255-43e8-a328-e861748351e5",
+            "text": "携程",
+            "type": "istar.Actor",
+            "x": 542,
+            "y": 958,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": "收入\n100\n100"
+            },
+            "nodes": []
+        },
+        {
+            "id": "f87736a1-7cc5-4d1f-a328-e861748351e5",
+            "text": "船公司",
+            "type": "istar.Actor",
+            "x": 919,
+            "y": 958,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        }
+    ],
+    "links": [
+        {
+            "id": "0a4bed0d-edd4-4842fe7990ad-a53b-4e20-81f4-d2efeb8777fd",
+            "type": "istar.DependencyLink",
+            "source": "0a4bed0d-edd4-4842-9072-098998afd156",
+            "target": "fe7990ad-a53b-4e20-81f4-d2efeb8777fd"
+        },
+        {
+            "id": "fe7990ad-a53b-4e20-81f4-d2efeb8777fd-9072-098998afd156",
+            "type": "istar.DependencyLink",
+            "source": "fe7990ad-a53b-4e20-81f4-d2efeb8777fd",
+            "target": "8d390f74-a255-43e8-9072-098998afd156"
+        },
+        {
+            "id": "8d390f74-a255-43e8fc3d2e32-4200-4f84-b076-f13904b95748",
+            "type": "istar.DependencyLink",
+            "source": "8d390f74-a255-43e8-9072-098998afd156",
+            "target": "fc3d2e32-4200-4f84-b076-f13904b95748"
+        },
+        {
+            "id": "fc3d2e32-4200-4f84-b076-f13904b95748-9072-098998afd156",
+            "type": "istar.DependencyLink",
+            "source": "fc3d2e32-4200-4f84-b076-f13904b95748",
+            "target": "66290d6f-0df4-41e7-9072-098998afd156"
+        },
+        {
+            "id": "66290d6f-0df4-41e7f9df1c7a-56a4-4534-8536-5205d78ca920",
+            "type": "istar.DependencyLink",
+            "source": "66290d6f-0df4-41e7-9072-098998afd156",
+            "target": "f9df1c7a-56a4-4534-8536-5205d78ca920"
+        },
+        {
+            "id": "f9df1c7a-56a4-4534-8536-5205d78ca920-9072-098998afd156",
+            "type": "istar.DependencyLink",
+            "source": "f9df1c7a-56a4-4534-8536-5205d78ca920",
+            "target": "8d390f74-a255-43e8-9072-098998afd156"
+        },
+        {
+            "id": "8d390f74-a255-43e85f6fb12e-78a0-4f17-9e12-553ee81ebf59",
+            "type": "istar.DependencyLink",
+            "source": "8d390f74-a255-43e8-9072-098998afd156",
+            "target": "5f6fb12e-78a0-4f17-9e12-553ee81ebf59"
+        },
+        {
+            "id": "5f6fb12e-78a0-4f17-9e12-553ee81ebf59-9072-098998afd156",
+            "type": "istar.DependencyLink",
+            "source": "5f6fb12e-78a0-4f17-9e12-553ee81ebf59",
+            "target": "0a4bed0d-edd4-4842-9072-098998afd156"
+        },
+        {
+            "id": "0a4bed0d-edd4-484240d32464-dfed-44b9-9fb7-b45b4a76dc31",
+            "type": "istar.DependencyLink",
+            "source": "0a4bed0d-edd4-4842-b934-6c606320e89b",
+            "target": "40d32464-dfed-44b9-9fb7-b45b4a76dc31"
+        },
+        {
+            "id": "40d32464-dfed-44b9-9fb7-b45b4a76dc31-b934-6c606320e89b",
+            "type": "istar.DependencyLink",
+            "source": "40d32464-dfed-44b9-9fb7-b45b4a76dc31",
+            "target": "8d390f74-a255-43e8-b934-6c606320e89b"
+        },
+        {
+            "id": "7b3c78cc-5ed4-430b04a2ad6b-22e1-4fc6-b625-f342ab2a4de7",
+            "type": "istar.DependencyLink",
+            "source": "7b3c78cc-5ed4-430b-b934-6c606320e89b",
+            "target": "04a2ad6b-22e1-4fc6-b625-f342ab2a4de7"
+        },
+        {
+            "id": "04a2ad6b-22e1-4fc6-b625-f342ab2a4de7-b934-6c606320e89b",
+            "type": "istar.DependencyLink",
+            "source": "04a2ad6b-22e1-4fc6-b625-f342ab2a4de7",
+            "target": "0a4bed0d-edd4-4842-b934-6c606320e89b"
+        },
+        {
+            "id": "8d390f74-a255-43e8f83778ff-8f5a-4d6f-80e9-7965d0e588f6",
+            "type": "istar.DependencyLink",
+            "source": "8d390f74-a255-43e8-b934-6c606320e89b",
+            "target": "f83778ff-8f5a-4d6f-80e9-7965d0e588f6"
+        },
+        {
+            "id": "f83778ff-8f5a-4d6f-80e9-7965d0e588f6-b934-6c606320e89b",
+            "type": "istar.DependencyLink",
+            "source": "f83778ff-8f5a-4d6f-80e9-7965d0e588f6",
+            "target": "7b3c78cc-5ed4-430b-b934-6c606320e89b"
+        },
+        {
+            "id": "8d390f74-a255-43e85478b439-5336-4fa1-a6a2-393552e99bf8",
+            "type": "istar.DependencyLink",
+            "source": "8d390f74-a255-43e8-8156-7b247145731f",
+            "target": "5478b439-5336-4fa1-a6a2-393552e99bf8"
+        },
+        {
+            "id": "5478b439-5336-4fa1-a6a2-393552e99bf8-8156-7b247145731f",
+            "type": "istar.DependencyLink",
+            "source": "5478b439-5336-4fa1-a6a2-393552e99bf8",
+            "target": "0a4bed0d-edd4-4842-8156-7b247145731f"
+        },
+        {
+            "id": "8d390f74-a255-43e8c83a9f73-ab5d-4724-a738-9b7f38fa2d50",
+            "type": "istar.DependencyLink",
+            "source": "8d390f74-a255-43e8-8156-7b247145731f",
+            "target": "c83a9f73-ab5d-4724-a738-9b7f38fa2d50"
+        },
+        {
+            "id": "c83a9f73-ab5d-4724-a738-9b7f38fa2d50-8156-7b247145731f",
+            "type": "istar.DependencyLink",
+            "source": "c83a9f73-ab5d-4724-a738-9b7f38fa2d50",
+            "target": "c9d7be9c-e52e-4719-8156-7b247145731f"
+        },
+        {
+            "id": "c9d7be9c-e52e-4719bddb9567-0759-4730-af5c-7857a462a158",
+            "type": "istar.DependencyLink",
+            "source": "c9d7be9c-e52e-4719-8156-7b247145731f",
+            "target": "bddb9567-0759-4730-af5c-7857a462a158"
+        },
+        {
+            "id": "bddb9567-0759-4730-af5c-7857a462a158-8156-7b247145731f",
+            "type": "istar.DependencyLink",
+            "source": "bddb9567-0759-4730-af5c-7857a462a158",
+            "target": "8d390f74-a255-43e8-8156-7b247145731f"
+        },
+        {
+            "id": "0a4bed0d-edd4-484294d5dfba-2ffd-44cf-80b5-ac8515759a96",
+            "type": "istar.DependencyLink",
+            "source": "0a4bed0d-edd4-4842-a81d-4b94c01af0c1",
+            "target": "94d5dfba-2ffd-44cf-80b5-ac8515759a96"
+        },
+        {
+            "id": "94d5dfba-2ffd-44cf-80b5-ac8515759a96-a81d-4b94c01af0c1",
+            "type": "istar.DependencyLink",
+            "source": "94d5dfba-2ffd-44cf-80b5-ac8515759a96",
+            "target": "8d390f74-a255-43e8-a81d-4b94c01af0c1"
+        },
+        {
+            "id": "1a24465b-0b32-46118bb3b420-ab86-4dac-90cf-8ca0a33281dd",
+            "type": "istar.DependencyLink",
+            "source": "1a24465b-0b32-4611-a81d-4b94c01af0c1",
+            "target": "8bb3b420-ab86-4dac-90cf-8ca0a33281dd"
+        },
+        {
+            "id": "8bb3b420-ab86-4dac-90cf-8ca0a33281dd-a81d-4b94c01af0c1",
+            "type": "istar.DependencyLink",
+            "source": "8bb3b420-ab86-4dac-90cf-8ca0a33281dd",
+            "target": "0a4bed0d-edd4-4842-a81d-4b94c01af0c1"
+        },
+        {
+            "id": "8d390f74-a255-43e89dfbc735-79d8-4cbb-81a5-bbecec1e1332",
+            "type": "istar.DependencyLink",
+            "source": "8d390f74-a255-43e8-a81d-4b94c01af0c1",
+            "target": "9dfbc735-79d8-4cbb-81a5-bbecec1e1332"
+        },
+        {
+            "id": "9dfbc735-79d8-4cbb-81a5-bbecec1e1332-a81d-4b94c01af0c1",
+            "type": "istar.DependencyLink",
+            "source": "9dfbc735-79d8-4cbb-81a5-bbecec1e1332",
+            "target": "1a24465b-0b32-4611-a81d-4b94c01af0c1"
+        },
+        {
+            "id": "0a4bed0d-edd4-484251aff955-1f86-43d6-abba-e39f7b2430dc",
+            "type": "istar.DependencyLink",
+            "source": "0a4bed0d-edd4-4842-9474-2480a93dd550",
+            "target": "51aff955-1f86-43d6-abba-e39f7b2430dc"
+        },
+        {
+            "id": "51aff955-1f86-43d6-abba-e39f7b2430dc-9474-2480a93dd550",
+            "type": "istar.DependencyLink",
+            "source": "51aff955-1f86-43d6-abba-e39f7b2430dc",
+            "target": "8d390f74-a255-43e8-9474-2480a93dd550"
+        },
+        {
+            "id": "e43f5123-6ed7-410460f623d2-52d5-4b78-b73a-7851aa9b0519",
+            "type": "istar.DependencyLink",
+            "source": "e43f5123-6ed7-4104-9474-2480a93dd550",
+            "target": "60f623d2-52d5-4b78-b73a-7851aa9b0519"
+        },
+        {
+            "id": "60f623d2-52d5-4b78-b73a-7851aa9b0519-9474-2480a93dd550",
+            "type": "istar.DependencyLink",
+            "source": "60f623d2-52d5-4b78-b73a-7851aa9b0519",
+            "target": "0a4bed0d-edd4-4842-9474-2480a93dd550"
+        },
+        {
+            "id": "8d390f74-a255-43e843392277-3bf4-48cf-9f77-c687271a0e06",
+            "type": "istar.DependencyLink",
+            "source": "8d390f74-a255-43e8-9474-2480a93dd550",
+            "target": "43392277-3bf4-48cf-9f77-c687271a0e06"
+        },
+        {
+            "id": "43392277-3bf4-48cf-9f77-c687271a0e06-9474-2480a93dd550",
+            "type": "istar.DependencyLink",
+            "source": "43392277-3bf4-48cf-9f77-c687271a0e06",
+            "target": "e43f5123-6ed7-4104-9474-2480a93dd550"
+        },
+        {
+            "id": "0a4bed0d-edd4-4842a52c748a-ba6f-4217-a352-2d1fca1e48d8",
+            "type": "istar.DependencyLink",
+            "source": "0a4bed0d-edd4-4842-a328-e861748351e5",
+            "target": "a52c748a-ba6f-4217-a352-2d1fca1e48d8"
+        },
+        {
+            "id": "a52c748a-ba6f-4217-a352-2d1fca1e48d8-a328-e861748351e5",
+            "type": "istar.DependencyLink",
+            "source": "a52c748a-ba6f-4217-a352-2d1fca1e48d8",
+            "target": "8d390f74-a255-43e8-a328-e861748351e5"
+        },
+        {
+            "id": "f87736a1-7cc5-4d1f368c2279-e360-4889-9a7c-7e98ac3f1be6",
+            "type": "istar.DependencyLink",
+            "source": "f87736a1-7cc5-4d1f-a328-e861748351e5",
+            "target": "368c2279-e360-4889-9a7c-7e98ac3f1be6"
+        },
+        {
+            "id": "368c2279-e360-4889-9a7c-7e98ac3f1be6-a328-e861748351e5",
+            "type": "istar.DependencyLink",
+            "source": "368c2279-e360-4889-9a7c-7e98ac3f1be6",
+            "target": "0a4bed0d-edd4-4842-a328-e861748351e5"
+        },
+        {
+            "id": "8d390f74-a255-43e8f091aa6c-59d0-4773-8109-d3efe0bbd687",
+            "type": "istar.DependencyLink",
+            "source": "8d390f74-a255-43e8-a328-e861748351e5",
+            "target": "f091aa6c-59d0-4773-8109-d3efe0bbd687"
+        },
+        {
+            "id": "f091aa6c-59d0-4773-8109-d3efe0bbd687-a328-e861748351e5",
+            "type": "istar.DependencyLink",
+            "source": "f091aa6c-59d0-4773-8109-d3efe0bbd687",
+            "target": "f87736a1-7cc5-4d1f-a328-e861748351e5"
+        }
+    ],
+    "dependencies": [
+        {
+            "id": "fe7990ad-a53b-4e20-81f4-d2efeb8777fd",
+            "text": "经济类：酒店费用",
+            "type": "istar.Value",
+            "x": 312,
+            "y": 214,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "0a4bed0d-edd4-4842-9072-098998afd156",
+            "target": "8d390f74-a255-43e8-9072-098998afd156"
+        },
+        {
+            "id": "fc3d2e32-4200-4f84-b076-f13904b95748",
+            "text": "经济类：酒店费用",
+            "type": "istar.Value",
+            "x": 880,
+            "y": 209,
+            "customProperties": {
+                "Type": "ECV",
+                "Asso-Intention": "",
+                "Description": "925"
+            },
+            "source": "8d390f74-a255-43e8-9072-098998afd156",
+            "target": "66290d6f-0df4-41e7-9072-098998afd156"
+        },
+        {
+            "id": "f9df1c7a-56a4-4534-8536-5205d78ca920",
+            "text": "资源使用类：酒店",
+            "type": "istar.Value",
+            "x": 888,
+            "y": 281,
+            "customProperties": {
+                "Type": "RUV",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "66290d6f-0df4-41e7-9072-098998afd156",
+            "target": "8d390f74-a255-43e8-9072-098998afd156"
+        },
+        {
+            "id": "5f6fb12e-78a0-4f17-9e12-553ee81ebf59",
+            "text": "资源使用类：酒店",
+            "type": "istar.Value",
+            "x": 313,
+            "y": 279,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "8d390f74-a255-43e8-9072-098998afd156",
+            "target": "0a4bed0d-edd4-4842-9072-098998afd156"
+        },
+        {
+            "id": "40d32464-dfed-44b9-9fb7-b45b4a76dc31",
+            "text": "经济类：飞机费用",
+            "type": "istar.Value",
+            "x": 312,
+            "y": 148,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "0a4bed0d-edd4-4842-b934-6c606320e89b",
+            "target": "8d390f74-a255-43e8-b934-6c606320e89b"
+        },
+        {
+            "id": "04a2ad6b-22e1-4fc6-b625-f342ab2a4de7",
+            "text": "事物改变类价值：改变位置",
+            "type": "istar.Value",
+            "x": 273,
+            "y": 90,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "7b3c78cc-5ed4-430b-b934-6c606320e89b",
+            "target": "0a4bed0d-edd4-4842-b934-6c606320e89b"
+        },
+        {
+            "id": "f83778ff-8f5a-4d6f-80e9-7965d0e588f6",
+            "text": "经济类：飞机费用",
+            "type": "istar.Value",
+            "x": 815,
+            "y": 157,
+            "customProperties": {
+                "Type": "ECV",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "8d390f74-a255-43e8-b934-6c606320e89b",
+            "target": "7b3c78cc-5ed4-430b-b934-6c606320e89b"
+        },
+        {
+            "id": "5478b439-5336-4fa1-a6a2-393552e99bf8",
+            "text": "资源使用类：景点",
+            "type": "istar.Value",
+            "x": 327,
+            "y": 667,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "8d390f74-a255-43e8-8156-7b247145731f",
+            "target": "0a4bed0d-edd4-4842-8156-7b247145731f"
+        },
+        {
+            "id": "c83a9f73-ab5d-4724-a738-9b7f38fa2d50",
+            "text": "经济类：门票费用",
+            "type": "istar.Value",
+            "x": 904,
+            "y": 502,
+            "customProperties": {
+                "Type": "ECV",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "8d390f74-a255-43e8-8156-7b247145731f",
+            "target": "c9d7be9c-e52e-4719-8156-7b247145731f"
+        },
+        {
+            "id": "bddb9567-0759-4730-af5c-7857a462a158",
+            "text": "资源使用类：景点",
+            "type": "istar.Value",
+            "x": 897,
+            "y": 569,
+            "customProperties": {
+                "Type": "RUV",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "c9d7be9c-e52e-4719-8156-7b247145731f",
+            "target": "8d390f74-a255-43e8-8156-7b247145731f"
+        },
+        {
+            "id": "94d5dfba-2ffd-44cf-80b5-ac8515759a96",
+            "text": "经济类：租车费用",
+            "type": "istar.Value",
+            "x": 329,
+            "y": 733,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "0a4bed0d-edd4-4842-a81d-4b94c01af0c1",
+            "target": "8d390f74-a255-43e8-a81d-4b94c01af0c1"
+        },
+        {
+            "id": "8bb3b420-ab86-4dac-90cf-8ca0a33281dd",
+            "text": "事物改变类价值：改变位置",
+            "type": "istar.Value",
+            "x": 289,
+            "y": 806,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "1a24465b-0b32-4611-a81d-4b94c01af0c1",
+            "target": "0a4bed0d-edd4-4842-a81d-4b94c01af0c1"
+        },
+        {
+            "id": "9dfbc735-79d8-4cbb-81a5-bbecec1e1332",
+            "text": "经济类：租车费用",
+            "type": "istar.Value",
+            "x": 815,
+            "y": 613,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "8d390f74-a255-43e8-a81d-4b94c01af0c1",
+            "target": "1a24465b-0b32-4611-a81d-4b94c01af0c1"
+        },
+        {
+            "id": "51aff955-1f86-43d6-abba-e39f7b2430dc",
+            "text": "经济类：火车费用",
+            "type": "istar.Value",
+            "x": 328,
+            "y": 864,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "0a4bed0d-edd4-4842-9474-2480a93dd550",
+            "target": "8d390f74-a255-43e8-9474-2480a93dd550"
+        },
+        {
+            "id": "60f623d2-52d5-4b78-b73a-7851aa9b0519",
+            "text": "事物改变类价值：改变位置",
+            "type": "istar.Value",
+            "x": 286,
+            "y": 936,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "e43f5123-6ed7-4104-9474-2480a93dd550",
+            "target": "0a4bed0d-edd4-4842-9474-2480a93dd550"
+        },
+        {
+            "id": "43392277-3bf4-48cf-9f77-c687271a0e06",
+            "text": "经济类：火车费用",
+            "type": "istar.Value",
+            "x": 773,
+            "y": 691,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "8d390f74-a255-43e8-9474-2480a93dd550",
+            "target": "e43f5123-6ed7-4104-9474-2480a93dd550"
+        },
+        {
+            "id": "a52c748a-ba6f-4217-a352-2d1fca1e48d8",
+            "text": "经济类：轮船费用",
+            "type": "istar.Value",
+            "x": 327,
+            "y": 991,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "0a4bed0d-edd4-4842-a328-e861748351e5",
+            "target": "8d390f74-a255-43e8-a328-e861748351e5"
+        },
+        {
+            "id": "368c2279-e360-4889-9a7c-7e98ac3f1be6",
+            "text": "事物改变类价值：改变位置",
+            "type": "istar.Value",
+            "x": 279,
+            "y": 1060,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "f87736a1-7cc5-4d1f-a328-e861748351e5",
+            "target": "0a4bed0d-edd4-4842-a328-e861748351e5"
+        },
+        {
+            "id": "f091aa6c-59d0-4773-8109-d3efe0bbd687",
+            "text": "经济类：轮船费用",
+            "type": "istar.Value",
+            "x": 754,
+            "y": 783,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "8d390f74-a255-43e8-a328-e861748351e5",
+            "target": "f87736a1-7cc5-4d1f-a328-e861748351e5"
+        }
+    ]
+}

@@ -1,0 +1,455 @@
+{
+  "actors": [
+    {
+      "id": "85a214ec-e140-4594-a4fe-68bedc4db702",
+      "text": "顾客",
+      "type": "istar.Actor",
+      "x": 342,
+      "y": 412,
+      "ActorType": "Customer",
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "text": "亚马逊",
+      "type": "istar.Actor",
+      "x": 883,
+      "y": 410,
+      "ActorType": "Broker",
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "1c51eda8-ed65-4775-85d4-03f252ad6644",
+      "text": "音乐版权商",
+      "type": "istar.Actor",
+      "x": 1230,
+      "y": 198,
+      "ActorType": "Provider",
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "f4dae1d3-563e-4c8c-8f39-344ac8d3a2fd",
+      "text": "亚马逊音乐",
+      "type": "istar.Actor",
+      "x": 602,
+      "y": 267,
+      "ActorType": "C-enabler",
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "5cda507f-6a24-482b-9b0e-105bb509d8d6",
+      "text": "服装供应商",
+      "type": "istar.Actor",
+      "x": 1317,
+      "y": 409,
+      "ActorType": "Provider",
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "3e74fb60-c115-4faf-8530-cd6c3d61eb83",
+      "text": "电子产品供应商",
+      "type": "istar.Actor",
+      "x": 1224,
+      "y": 625,
+      "ActorType": "Provider",
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    }
+  ],
+  "orphans": [],
+  "dependencies": [
+    {
+      "id": "19cb5478-ef7a-48e6-9928-1dd0909089e9",
+      "text": "经济类：音乐服务费用",
+      "type": "istar.Value",
+      "x": 1010,
+      "y": 226,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "1c51eda8-ed65-4775-85d4-03f252ad6644"
+    },
+    {
+      "id": "1043b5c3-885e-456f-8bae-e4883b253a11",
+      "text": "资源使用类：音乐服务",
+      "type": "istar.Value",
+      "x": 482,
+      "y": 320,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "f4dae1d3-563e-4c8c-8f39-344ac8d3a2fd",
+      "target": "85a214ec-e140-4594-a4fe-68bedc4db702"
+    },
+    {
+      "id": "2b283b8f-cd4b-4c02-866b-7c3e51d1c867",
+      "text": "资源使用类：音乐服务",
+      "type": "istar.Value",
+      "x": 1047,
+      "y": 289,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "1c51eda8-ed65-4775-85d4-03f252ad6644",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "d77a2af2-ad81-4953-b688-a07cda4342b0",
+      "text": "经济类：音乐服务费用",
+      "type": "istar.Value",
+      "x": 714,
+      "y": 327,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "f4dae1d3-563e-4c8c-8f39-344ac8d3a2fd"
+    },
+    {
+      "id": "6a3161cb-4533-4027-96c1-391a0b6087c5",
+      "text": "经济类：服装费用",
+      "type": "istar.Value",
+      "x": 1111,
+      "y": 354,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "5cda507f-6a24-482b-9b0e-105bb509d8d6"
+    },
+    {
+      "id": "6492c2b8-4e13-4edd-a9ad-6a79d406e8a9",
+      "text": "产品类：服装使用权",
+      "type": "istar.Value",
+      "x": 1110,
+      "y": 432,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "5cda507f-6a24-482b-9b0e-105bb509d8d6",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "0429327b-d21e-4349-84f0-c41c172f74f6",
+      "text": "经济类：电子产品费用",
+      "type": "istar.Value",
+      "x": 1061,
+      "y": 531,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "3e74fb60-c115-4faf-8530-cd6c3d61eb83"
+    },
+    {
+      "id": "751e4701-e993-48f7-a4b3-dbb309228070",
+      "text": "产品类：电子产品使用权",
+      "type": "istar.Value",
+      "x": 1025,
+      "y": 603,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "3e74fb60-c115-4faf-8530-cd6c3d61eb83",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "2f7a9511-7f89-479c-b9b7-8ece28dde671",
+      "text": "经济类：音乐服务费用",
+      "type": "istar.Value",
+      "x": 595,
+      "y": 169,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "85a214ec-e140-4594-a4fe-68bedc4db702",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "2a7de195-04cd-47b8-9158-fdc72dfa0c6e",
+      "text": "产品类：电子产品使用权",
+      "type": "istar.Value",
+      "x": 588,
+      "y": 610,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "85a214ec-e140-4594-a4fe-68bedc4db702"
+    },
+    {
+      "id": "9da771ab-232d-4a52-99a3-040cf7bce187",
+      "text": "经济类：电子产品费用",
+      "type": "istar.Value",
+      "x": 588,
+      "y": 547,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "85a214ec-e140-4594-a4fe-68bedc4db702",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "589617a0-80b7-4b5e-b1d4-373c13ae51e4",
+      "text": "产品类：服装使用权",
+      "type": "istar.Value",
+      "x": 589,
+      "y": 426,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "85a214ec-e140-4594-a4fe-68bedc4db702"
+    },
+    {
+      "id": "87dea412-4591-4514-bbe6-46136c93048e",
+      "text": "经济类：服装费用",
+      "type": "istar.Value",
+      "x": 587,
+      "y": 364,
+      "customProperties": {
+        "Type": "",
+        "Asso-Intention": "",
+        "Description": ""
+      },
+      "source": "85a214ec-e140-4594-a4fe-68bedc4db702",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    }
+  ],
+  "links": [
+    {
+      "id": "034cf215-42a2-47ef-b1e3-ef55e1a96038",
+      "type": "istar.DependencyLink",
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "19cb5478-ef7a-48e6-9928-1dd0909089e9"
+    },
+    {
+      "id": "0f3c7c69-7715-4aec-9561-8460d629d93a",
+      "type": "istar.DependencyLink",
+      "source": "19cb5478-ef7a-48e6-9928-1dd0909089e9",
+      "target": "1c51eda8-ed65-4775-85d4-03f252ad6644"
+    },
+    {
+      "id": "5b5c9c95-2e9f-4169-820f-4c99f18ec3de",
+      "type": "istar.DependencyLink",
+      "source": "f4dae1d3-563e-4c8c-8f39-344ac8d3a2fd",
+      "target": "1043b5c3-885e-456f-8bae-e4883b253a11"
+    },
+    {
+      "id": "a31f3b6b-6472-483e-97e8-3140d1095b6b",
+      "type": "istar.DependencyLink",
+      "source": "1043b5c3-885e-456f-8bae-e4883b253a11",
+      "target": "85a214ec-e140-4594-a4fe-68bedc4db702"
+    },
+    {
+      "id": "9db93363-1e3c-4879-95fc-97dc58b9bd73",
+      "type": "istar.DependencyLink",
+      "source": "1c51eda8-ed65-4775-85d4-03f252ad6644",
+      "target": "2b283b8f-cd4b-4c02-866b-7c3e51d1c867"
+    },
+    {
+      "id": "120ad195-7f56-4e40-a938-562857e3b394",
+      "type": "istar.DependencyLink",
+      "source": "2b283b8f-cd4b-4c02-866b-7c3e51d1c867",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "982c8017-10b3-4f36-b7c2-6642eede6564",
+      "type": "istar.DependencyLink",
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "d77a2af2-ad81-4953-b688-a07cda4342b0"
+    },
+    {
+      "id": "5d4c4890-b8ac-43cd-b0f4-26b9928c8cc6",
+      "type": "istar.DependencyLink",
+      "source": "d77a2af2-ad81-4953-b688-a07cda4342b0",
+      "target": "f4dae1d3-563e-4c8c-8f39-344ac8d3a2fd"
+    },
+    {
+      "id": "91ac33db-c855-4e48-9a09-e704984ebe52",
+      "type": "istar.DependencyLink",
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "6a3161cb-4533-4027-96c1-391a0b6087c5"
+    },
+    {
+      "id": "5e3bd817-2b08-4329-b6ec-2ffdb1d127eb",
+      "type": "istar.DependencyLink",
+      "source": "6a3161cb-4533-4027-96c1-391a0b6087c5",
+      "target": "5cda507f-6a24-482b-9b0e-105bb509d8d6"
+    },
+    {
+      "id": "f78836dc-f718-480e-93e5-761f89387ee1",
+      "type": "istar.DependencyLink",
+      "source": "5cda507f-6a24-482b-9b0e-105bb509d8d6",
+      "target": "6492c2b8-4e13-4edd-a9ad-6a79d406e8a9"
+    },
+    {
+      "id": "72fb32f2-369f-440d-bf51-ac39f8a3e133",
+      "type": "istar.DependencyLink",
+      "source": "6492c2b8-4e13-4edd-a9ad-6a79d406e8a9",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "11afbd7e-c278-48be-a6ef-327a45a76576",
+      "type": "istar.DependencyLink",
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "0429327b-d21e-4349-84f0-c41c172f74f6"
+    },
+    {
+      "id": "f78d14f8-8dbd-4192-8c59-7accb7924023",
+      "type": "istar.DependencyLink",
+      "source": "0429327b-d21e-4349-84f0-c41c172f74f6",
+      "target": "3e74fb60-c115-4faf-8530-cd6c3d61eb83"
+    },
+    {
+      "id": "2cf97e47-4526-4e9a-a1e9-5eac2d88e88c",
+      "type": "istar.DependencyLink",
+      "source": "3e74fb60-c115-4faf-8530-cd6c3d61eb83",
+      "target": "751e4701-e993-48f7-a4b3-dbb309228070"
+    },
+    {
+      "id": "49df64b1-77ae-4241-b598-991f78a34698",
+      "type": "istar.DependencyLink",
+      "source": "751e4701-e993-48f7-a4b3-dbb309228070",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "82f5b8e6-9b05-4d7d-9785-a791c40708cf",
+      "type": "istar.DependencyLink",
+      "source": "85a214ec-e140-4594-a4fe-68bedc4db702",
+      "target": "2f7a9511-7f89-479c-b9b7-8ece28dde671"
+    },
+    {
+      "id": "e73f72c9-a03b-49ca-b7ee-0ae20f82b9dd",
+      "type": "istar.DependencyLink",
+      "source": "2f7a9511-7f89-479c-b9b7-8ece28dde671",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "a1bdefc6-b9d8-4627-8eb4-ddffc443b6db",
+      "type": "istar.DependencyLink",
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "2a7de195-04cd-47b8-9158-fdc72dfa0c6e"
+    },
+    {
+      "id": "23f07011-620b-4543-9004-737fe5d34ccc",
+      "type": "istar.DependencyLink",
+      "source": "2a7de195-04cd-47b8-9158-fdc72dfa0c6e",
+      "target": "85a214ec-e140-4594-a4fe-68bedc4db702"
+    },
+    {
+      "id": "00c5d4a5-35f4-4b7f-9c9a-b7e46a03fc11",
+      "type": "istar.DependencyLink",
+      "source": "85a214ec-e140-4594-a4fe-68bedc4db702",
+      "target": "9da771ab-232d-4a52-99a3-040cf7bce187"
+    },
+    {
+      "id": "e32e500e-c8f6-4352-966f-607ff2920cd7",
+      "type": "istar.DependencyLink",
+      "source": "9da771ab-232d-4a52-99a3-040cf7bce187",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    },
+    {
+      "id": "f937b1db-2f03-4015-af43-48655ad08d12",
+      "type": "istar.DependencyLink",
+      "source": "ffac9bad-1fa5-4e84-9cdc-90df039546ef",
+      "target": "589617a0-80b7-4b5e-b1d4-373c13ae51e4"
+    },
+    {
+      "id": "5910fffb-5845-4645-872d-35e722b54448",
+      "type": "istar.DependencyLink",
+      "source": "589617a0-80b7-4b5e-b1d4-373c13ae51e4",
+      "target": "85a214ec-e140-4594-a4fe-68bedc4db702"
+    },
+    {
+      "id": "5bda9ef3-d9d0-4308-82bf-f1d850c7bab1",
+      "type": "istar.DependencyLink",
+      "source": "85a214ec-e140-4594-a4fe-68bedc4db702",
+      "target": "87dea412-4591-4514-bbe6-46136c93048e"
+    },
+    {
+      "id": "992aa8ff-6790-4628-a6ab-86d34c8532bf",
+      "type": "istar.DependencyLink",
+      "source": "87dea412-4591-4514-bbe6-46136c93048e",
+      "target": "ffac9bad-1fa5-4e84-9cdc-90df039546ef"
+    }
+  ],
+  "display": {
+    "85a214ec-e140-4594-a4fe-68bedc4db702": {
+      "collapsed": true,
+      "backgroundColor": "#CCFACD"
+    },
+    "ffac9bad-1fa5-4e84-9cdc-90df039546ef": {
+      "collapsed": true,
+      "backgroundColor": "#FAE573"
+    },
+    "1c51eda8-ed65-4775-85d4-03f252ad6644": {
+      "collapsed": true,
+      "backgroundColor": "#A0CCFA"
+    },
+    "f4dae1d3-563e-4c8c-8f39-344ac8d3a2fd": {
+      "collapsed": true,
+      "backgroundColor": "#CD98FA"
+    },
+    "5cda507f-6a24-482b-9b0e-105bb509d8d6": {
+      "collapsed": true,
+      "backgroundColor": "#A0CCFA"
+    },
+    "3e74fb60-c115-4faf-8530-cd6c3d61eb83": {
+      "collapsed": true,
+      "backgroundColor": "#A0CCFA"
+    }
+  },
+  "tool": "pistar.2.0.0",
+  "istar": "2.0",
+  "saveDate": "Tue, 08 Mar 2022 00:44:08 GMT",
+  "diagram": {
+    "width": 2000,
+    "height": 1300,
+    "customProperties": {
+      "Description": ""
+    }
+  }
+}

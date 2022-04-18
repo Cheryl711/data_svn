@@ -1,0 +1,930 @@
+{
+    "orphans": [],
+    "diagram": {
+        "width": 2000,
+        "height": 1300,
+        "customProperties": {
+            "Description": ""
+        }
+    },
+    "display": {
+        "4637176f-af1f-45ef-9926-adadb773d630": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "de58e8be-4aa1-43f7-9926-adadb773d630": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "4e9b1ad7-ef09-49ad-9926-adadb773d630": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "4637176f-af1f-45ef-8155-c6ce8ecce65d": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "de58e8be-4aa1-43f7-8155-c6ce8ecce65d": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "6b270f79-a9cd-467a-8155-c6ce8ecce65d": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "4637176f-af1f-45ef-9e1b-bcb595dafb18": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "de58e8be-4aa1-43f7-9e1b-bcb595dafb18": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "3722f9e0-36c6-4b6f-9e1b-bcb595dafb18": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "4637176f-af1f-45ef-a54a-36e199585f1a": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "de58e8be-4aa1-43f7-a54a-36e199585f1a": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "01b07992-db52-475a-a54a-36e199585f1a": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "4637176f-af1f-45ef-8e87-06ae00d1a97e": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "de58e8be-4aa1-43f7-8e87-06ae00d1a97e": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "160690dc-43bc-4794-8e87-06ae00d1a97e": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        },
+        "4637176f-af1f-45ef-98d4-fc6f352d1405": {
+            "collapsed": "true",
+            "backgroundColor": "#CCFACD"
+        },
+        "de58e8be-4aa1-43f7-98d4-fc6f352d1405": {
+            "collapsed": "true",
+            "backgroundColor": "#FAE573"
+        },
+        "2d992f19-bf27-4221-98d4-fc6f352d1405": {
+            "collapsed": "true",
+            "backgroundColor": "#A0CCFA"
+        }
+    },
+    "actors": [
+        {
+            "id": "4637176f-af1f-45ef-9926-adadb773d630",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 72,
+            "y": 121,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "de58e8be-4aa1-43f7-9926-adadb773d630",
+            "text": "小米",
+            "type": "istar.Actor",
+            "x": 535,
+            "y": 121,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "4e9b1ad7-ef09-49ad-9926-adadb773d630",
+            "text": "手机供应商",
+            "type": "istar.Actor",
+            "x": 882,
+            "y": 121,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "4637176f-af1f-45ef-8155-c6ce8ecce65d",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 72,
+            "y": 235,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "de58e8be-4aa1-43f7-8155-c6ce8ecce65d",
+            "text": "小米",
+            "type": "istar.Actor",
+            "x": 535,
+            "y": 235,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "6b270f79-a9cd-467a-8155-c6ce8ecce65d",
+            "text": "电视供应商",
+            "type": "istar.Actor",
+            "x": 980,
+            "y": 235,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "4637176f-af1f-45ef-9e1b-bcb595dafb18",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 72,
+            "y": 396,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "de58e8be-4aa1-43f7-9e1b-bcb595dafb18",
+            "text": "小米",
+            "type": "istar.Actor",
+            "x": 535,
+            "y": 396,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "3722f9e0-36c6-4b6f-9e1b-bcb595dafb18",
+            "text": "家电供应商",
+            "type": "istar.Actor",
+            "x": 1092,
+            "y": 396,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "4637176f-af1f-45ef-a54a-36e199585f1a",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 72,
+            "y": 658,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "de58e8be-4aa1-43f7-a54a-36e199585f1a",
+            "text": "小米",
+            "type": "istar.Actor",
+            "x": 535,
+            "y": 658,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "01b07992-db52-475a-a54a-36e199585f1a",
+            "text": "笔记本供应商",
+            "type": "istar.Actor",
+            "x": 1006,
+            "y": 658,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "4637176f-af1f-45ef-8e87-06ae00d1a97e",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 72,
+            "y": 752,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "de58e8be-4aa1-43f7-8e87-06ae00d1a97e",
+            "text": "小米",
+            "type": "istar.Actor",
+            "x": 535,
+            "y": 752,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "160690dc-43bc-4794-8e87-06ae00d1a97e",
+            "text": "手表供应商",
+            "type": "istar.Actor",
+            "x": 923,
+            "y": 752,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "4637176f-af1f-45ef-98d4-fc6f352d1405",
+            "text": "顾客",
+            "type": "istar.Actor",
+            "x": 72,
+            "y": 869,
+            "ActorType": "Customer",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "de58e8be-4aa1-43f7-98d4-fc6f352d1405",
+            "text": "小米",
+            "type": "istar.Actor",
+            "x": 535,
+            "y": 869,
+            "ActorType": "Broker",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        },
+        {
+            "id": "2d992f19-bf27-4221-98d4-fc6f352d1405",
+            "text": "家居产品供应商",
+            "type": "istar.Actor",
+            "x": 866,
+            "y": 869,
+            "ActorType": "Provider",
+            "customProperties": {
+                "Description": ""
+            },
+            "nodes": []
+        }
+    ],
+    "links": [
+        {
+            "id": "4637176f-af1f-45ef78f4cda7-bfac-406f-983d-8fd1da8f212b",
+            "type": "istar.DependencyLink",
+            "source": "4637176f-af1f-45ef-9926-adadb773d630",
+            "target": "78f4cda7-bfac-406f-983d-8fd1da8f212b"
+        },
+        {
+            "id": "78f4cda7-bfac-406f-983d-8fd1da8f212b-9926-adadb773d630",
+            "type": "istar.DependencyLink",
+            "source": "78f4cda7-bfac-406f-983d-8fd1da8f212b",
+            "target": "de58e8be-4aa1-43f7-9926-adadb773d630"
+        },
+        {
+            "id": "de58e8be-4aa1-43f709c63fad-e994-4fc3-84a1-b5066fbbf17c",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-9926-adadb773d630",
+            "target": "09c63fad-e994-4fc3-84a1-b5066fbbf17c"
+        },
+        {
+            "id": "09c63fad-e994-4fc3-84a1-b5066fbbf17c-9926-adadb773d630",
+            "type": "istar.DependencyLink",
+            "source": "09c63fad-e994-4fc3-84a1-b5066fbbf17c",
+            "target": "4e9b1ad7-ef09-49ad-9926-adadb773d630"
+        },
+        {
+            "id": "4e9b1ad7-ef09-49adcb80c38e-f0c2-46a0-b4ed-78528cb9f2cf",
+            "type": "istar.DependencyLink",
+            "source": "4e9b1ad7-ef09-49ad-9926-adadb773d630",
+            "target": "cb80c38e-f0c2-46a0-b4ed-78528cb9f2cf"
+        },
+        {
+            "id": "cb80c38e-f0c2-46a0-b4ed-78528cb9f2cf-9926-adadb773d630",
+            "type": "istar.DependencyLink",
+            "source": "cb80c38e-f0c2-46a0-b4ed-78528cb9f2cf",
+            "target": "de58e8be-4aa1-43f7-9926-adadb773d630"
+        },
+        {
+            "id": "de58e8be-4aa1-43f76a1ffcaf-3b01-49fc-a14f-13edac9bafd8",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-9926-adadb773d630",
+            "target": "6a1ffcaf-3b01-49fc-a14f-13edac9bafd8"
+        },
+        {
+            "id": "6a1ffcaf-3b01-49fc-a14f-13edac9bafd8-9926-adadb773d630",
+            "type": "istar.DependencyLink",
+            "source": "6a1ffcaf-3b01-49fc-a14f-13edac9bafd8",
+            "target": "4637176f-af1f-45ef-9926-adadb773d630"
+        },
+        {
+            "id": "4637176f-af1f-45ef13c4aa9d-44e3-4772-8ed2-b8b63d02aeb4",
+            "type": "istar.DependencyLink",
+            "source": "4637176f-af1f-45ef-8155-c6ce8ecce65d",
+            "target": "13c4aa9d-44e3-4772-8ed2-b8b63d02aeb4"
+        },
+        {
+            "id": "13c4aa9d-44e3-4772-8ed2-b8b63d02aeb4-8155-c6ce8ecce65d",
+            "type": "istar.DependencyLink",
+            "source": "13c4aa9d-44e3-4772-8ed2-b8b63d02aeb4",
+            "target": "de58e8be-4aa1-43f7-8155-c6ce8ecce65d"
+        },
+        {
+            "id": "de58e8be-4aa1-43f71727da43-7d30-467f-a8e8-ca2aea48e3b8",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-8155-c6ce8ecce65d",
+            "target": "1727da43-7d30-467f-a8e8-ca2aea48e3b8"
+        },
+        {
+            "id": "1727da43-7d30-467f-a8e8-ca2aea48e3b8-8155-c6ce8ecce65d",
+            "type": "istar.DependencyLink",
+            "source": "1727da43-7d30-467f-a8e8-ca2aea48e3b8",
+            "target": "6b270f79-a9cd-467a-8155-c6ce8ecce65d"
+        },
+        {
+            "id": "6b270f79-a9cd-467aad85c16b-8cea-4ee8-a7d2-0f48ec5ed714",
+            "type": "istar.DependencyLink",
+            "source": "6b270f79-a9cd-467a-8155-c6ce8ecce65d",
+            "target": "ad85c16b-8cea-4ee8-a7d2-0f48ec5ed714"
+        },
+        {
+            "id": "ad85c16b-8cea-4ee8-a7d2-0f48ec5ed714-8155-c6ce8ecce65d",
+            "type": "istar.DependencyLink",
+            "source": "ad85c16b-8cea-4ee8-a7d2-0f48ec5ed714",
+            "target": "de58e8be-4aa1-43f7-8155-c6ce8ecce65d"
+        },
+        {
+            "id": "de58e8be-4aa1-43f7d9974db1-2e7a-4023-ab46-1e0dec338606",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-8155-c6ce8ecce65d",
+            "target": "d9974db1-2e7a-4023-ab46-1e0dec338606"
+        },
+        {
+            "id": "d9974db1-2e7a-4023-ab46-1e0dec338606-8155-c6ce8ecce65d",
+            "type": "istar.DependencyLink",
+            "source": "d9974db1-2e7a-4023-ab46-1e0dec338606",
+            "target": "4637176f-af1f-45ef-8155-c6ce8ecce65d"
+        },
+        {
+            "id": "4637176f-af1f-45ef2b07a0fe-dd44-481c-9859-6a269b85a03f",
+            "type": "istar.DependencyLink",
+            "source": "4637176f-af1f-45ef-9e1b-bcb595dafb18",
+            "target": "2b07a0fe-dd44-481c-9859-6a269b85a03f"
+        },
+        {
+            "id": "2b07a0fe-dd44-481c-9859-6a269b85a03f-9e1b-bcb595dafb18",
+            "type": "istar.DependencyLink",
+            "source": "2b07a0fe-dd44-481c-9859-6a269b85a03f",
+            "target": "de58e8be-4aa1-43f7-9e1b-bcb595dafb18"
+        },
+        {
+            "id": "de58e8be-4aa1-43f72734c07c-eccc-40c7-b4cc-d3e1d37cf5e1",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-9e1b-bcb595dafb18",
+            "target": "2734c07c-eccc-40c7-b4cc-d3e1d37cf5e1"
+        },
+        {
+            "id": "2734c07c-eccc-40c7-b4cc-d3e1d37cf5e1-9e1b-bcb595dafb18",
+            "type": "istar.DependencyLink",
+            "source": "2734c07c-eccc-40c7-b4cc-d3e1d37cf5e1",
+            "target": "3722f9e0-36c6-4b6f-9e1b-bcb595dafb18"
+        },
+        {
+            "id": "3722f9e0-36c6-4b6f5274ad71-6827-4a2a-958b-e4f49e5ccc1a",
+            "type": "istar.DependencyLink",
+            "source": "3722f9e0-36c6-4b6f-9e1b-bcb595dafb18",
+            "target": "5274ad71-6827-4a2a-958b-e4f49e5ccc1a"
+        },
+        {
+            "id": "5274ad71-6827-4a2a-958b-e4f49e5ccc1a-9e1b-bcb595dafb18",
+            "type": "istar.DependencyLink",
+            "source": "5274ad71-6827-4a2a-958b-e4f49e5ccc1a",
+            "target": "de58e8be-4aa1-43f7-9e1b-bcb595dafb18"
+        },
+        {
+            "id": "de58e8be-4aa1-43f7f46b945e-185d-474b-8c03-2db4104e04d2",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-9e1b-bcb595dafb18",
+            "target": "f46b945e-185d-474b-8c03-2db4104e04d2"
+        },
+        {
+            "id": "f46b945e-185d-474b-8c03-2db4104e04d2-9e1b-bcb595dafb18",
+            "type": "istar.DependencyLink",
+            "source": "f46b945e-185d-474b-8c03-2db4104e04d2",
+            "target": "4637176f-af1f-45ef-9e1b-bcb595dafb18"
+        },
+        {
+            "id": "4637176f-af1f-45effc9b2392-e484-49cd-8034-31fac03f4d12",
+            "type": "istar.DependencyLink",
+            "source": "4637176f-af1f-45ef-a54a-36e199585f1a",
+            "target": "fc9b2392-e484-49cd-8034-31fac03f4d12"
+        },
+        {
+            "id": "fc9b2392-e484-49cd-8034-31fac03f4d12-a54a-36e199585f1a",
+            "type": "istar.DependencyLink",
+            "source": "fc9b2392-e484-49cd-8034-31fac03f4d12",
+            "target": "de58e8be-4aa1-43f7-a54a-36e199585f1a"
+        },
+        {
+            "id": "de58e8be-4aa1-43f78256f1b3-0287-4363-9a9c-9f239ee2a15e",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-a54a-36e199585f1a",
+            "target": "8256f1b3-0287-4363-9a9c-9f239ee2a15e"
+        },
+        {
+            "id": "8256f1b3-0287-4363-9a9c-9f239ee2a15e-a54a-36e199585f1a",
+            "type": "istar.DependencyLink",
+            "source": "8256f1b3-0287-4363-9a9c-9f239ee2a15e",
+            "target": "01b07992-db52-475a-a54a-36e199585f1a"
+        },
+        {
+            "id": "01b07992-db52-475a48d8fa99-3ac9-4969-ac4f-674ce1712ab5",
+            "type": "istar.DependencyLink",
+            "source": "01b07992-db52-475a-a54a-36e199585f1a",
+            "target": "48d8fa99-3ac9-4969-ac4f-674ce1712ab5"
+        },
+        {
+            "id": "48d8fa99-3ac9-4969-ac4f-674ce1712ab5-a54a-36e199585f1a",
+            "type": "istar.DependencyLink",
+            "source": "48d8fa99-3ac9-4969-ac4f-674ce1712ab5",
+            "target": "de58e8be-4aa1-43f7-a54a-36e199585f1a"
+        },
+        {
+            "id": "de58e8be-4aa1-43f72517fc06-fddd-46b3-bd05-451cfc5a504e",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-a54a-36e199585f1a",
+            "target": "2517fc06-fddd-46b3-bd05-451cfc5a504e"
+        },
+        {
+            "id": "2517fc06-fddd-46b3-bd05-451cfc5a504e-a54a-36e199585f1a",
+            "type": "istar.DependencyLink",
+            "source": "2517fc06-fddd-46b3-bd05-451cfc5a504e",
+            "target": "4637176f-af1f-45ef-a54a-36e199585f1a"
+        },
+        {
+            "id": "4637176f-af1f-45ef51783bf3-f5d0-4a32-892e-54fadf73f4f9",
+            "type": "istar.DependencyLink",
+            "source": "4637176f-af1f-45ef-8e87-06ae00d1a97e",
+            "target": "51783bf3-f5d0-4a32-892e-54fadf73f4f9"
+        },
+        {
+            "id": "51783bf3-f5d0-4a32-892e-54fadf73f4f9-8e87-06ae00d1a97e",
+            "type": "istar.DependencyLink",
+            "source": "51783bf3-f5d0-4a32-892e-54fadf73f4f9",
+            "target": "de58e8be-4aa1-43f7-8e87-06ae00d1a97e"
+        },
+        {
+            "id": "de58e8be-4aa1-43f704b5f9ef-4c10-4340-b992-1caf50a29aee",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-8e87-06ae00d1a97e",
+            "target": "04b5f9ef-4c10-4340-b992-1caf50a29aee"
+        },
+        {
+            "id": "04b5f9ef-4c10-4340-b992-1caf50a29aee-8e87-06ae00d1a97e",
+            "type": "istar.DependencyLink",
+            "source": "04b5f9ef-4c10-4340-b992-1caf50a29aee",
+            "target": "160690dc-43bc-4794-8e87-06ae00d1a97e"
+        },
+        {
+            "id": "160690dc-43bc-4794ecdc95d9-0ed8-43d2-9e6e-7ead9dc36d9a",
+            "type": "istar.DependencyLink",
+            "source": "160690dc-43bc-4794-8e87-06ae00d1a97e",
+            "target": "ecdc95d9-0ed8-43d2-9e6e-7ead9dc36d9a"
+        },
+        {
+            "id": "ecdc95d9-0ed8-43d2-9e6e-7ead9dc36d9a-8e87-06ae00d1a97e",
+            "type": "istar.DependencyLink",
+            "source": "ecdc95d9-0ed8-43d2-9e6e-7ead9dc36d9a",
+            "target": "de58e8be-4aa1-43f7-8e87-06ae00d1a97e"
+        },
+        {
+            "id": "de58e8be-4aa1-43f7ec9253e1-3aac-4ecf-925b-a2c7b6e279ce",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-8e87-06ae00d1a97e",
+            "target": "ec9253e1-3aac-4ecf-925b-a2c7b6e279ce"
+        },
+        {
+            "id": "ec9253e1-3aac-4ecf-925b-a2c7b6e279ce-8e87-06ae00d1a97e",
+            "type": "istar.DependencyLink",
+            "source": "ec9253e1-3aac-4ecf-925b-a2c7b6e279ce",
+            "target": "4637176f-af1f-45ef-8e87-06ae00d1a97e"
+        },
+        {
+            "id": "4637176f-af1f-45ef2db6729a-9068-4f88-91f9-26793e0dbfb9",
+            "type": "istar.DependencyLink",
+            "source": "4637176f-af1f-45ef-98d4-fc6f352d1405",
+            "target": "2db6729a-9068-4f88-91f9-26793e0dbfb9"
+        },
+        {
+            "id": "2db6729a-9068-4f88-91f9-26793e0dbfb9-98d4-fc6f352d1405",
+            "type": "istar.DependencyLink",
+            "source": "2db6729a-9068-4f88-91f9-26793e0dbfb9",
+            "target": "de58e8be-4aa1-43f7-98d4-fc6f352d1405"
+        },
+        {
+            "id": "de58e8be-4aa1-43f790e4ce30-7b14-4705-a0e3-2cbabca2b4df",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-98d4-fc6f352d1405",
+            "target": "90e4ce30-7b14-4705-a0e3-2cbabca2b4df"
+        },
+        {
+            "id": "90e4ce30-7b14-4705-a0e3-2cbabca2b4df-98d4-fc6f352d1405",
+            "type": "istar.DependencyLink",
+            "source": "90e4ce30-7b14-4705-a0e3-2cbabca2b4df",
+            "target": "2d992f19-bf27-4221-98d4-fc6f352d1405"
+        },
+        {
+            "id": "2d992f19-bf27-4221585c927d-a929-4ef0-836a-b43012f682c0",
+            "type": "istar.DependencyLink",
+            "source": "2d992f19-bf27-4221-98d4-fc6f352d1405",
+            "target": "585c927d-a929-4ef0-836a-b43012f682c0"
+        },
+        {
+            "id": "585c927d-a929-4ef0-836a-b43012f682c0-98d4-fc6f352d1405",
+            "type": "istar.DependencyLink",
+            "source": "585c927d-a929-4ef0-836a-b43012f682c0",
+            "target": "de58e8be-4aa1-43f7-98d4-fc6f352d1405"
+        },
+        {
+            "id": "de58e8be-4aa1-43f721676cd6-9526-4e2f-be22-2fe6f27e3826",
+            "type": "istar.DependencyLink",
+            "source": "de58e8be-4aa1-43f7-98d4-fc6f352d1405",
+            "target": "21676cd6-9526-4e2f-be22-2fe6f27e3826"
+        },
+        {
+            "id": "21676cd6-9526-4e2f-be22-2fe6f27e3826-98d4-fc6f352d1405",
+            "type": "istar.DependencyLink",
+            "source": "21676cd6-9526-4e2f-be22-2fe6f27e3826",
+            "target": "4637176f-af1f-45ef-98d4-fc6f352d1405"
+        }
+    ],
+    "dependencies": [
+        {
+            "id": "78f4cda7-bfac-406f-983d-8fd1da8f212b",
+            "text": "经济类：手机费用",
+            "type": "istar.Value",
+            "x": 336,
+            "y": 155,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "4637176f-af1f-45ef-9926-adadb773d630",
+            "target": "de58e8be-4aa1-43f7-9926-adadb773d630"
+        },
+        {
+            "id": "09c63fad-e994-4fc3-84a1-b5066fbbf17c",
+            "text": "经济类：手机费用",
+            "type": "istar.Value",
+            "x": 640,
+            "y": 132,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-9926-adadb773d630",
+            "target": "4e9b1ad7-ef09-49ad-9926-adadb773d630"
+        },
+        {
+            "id": "cb80c38e-f0c2-46a0-b4ed-78528cb9f2cf",
+            "text": "产品类：手机使用权",
+            "type": "istar.Value",
+            "x": 654,
+            "y": 193,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "4e9b1ad7-ef09-49ad-9926-adadb773d630",
+            "target": "de58e8be-4aa1-43f7-9926-adadb773d630"
+        },
+        {
+            "id": "6a1ffcaf-3b01-49fc-a14f-13edac9bafd8",
+            "text": "产品类：手机使用权",
+            "type": "istar.Value",
+            "x": 333,
+            "y": 220,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-9926-adadb773d630",
+            "target": "4637176f-af1f-45ef-9926-adadb773d630"
+        },
+        {
+            "id": "13c4aa9d-44e3-4772-8ed2-b8b63d02aeb4",
+            "text": "经济类：电视费用",
+            "type": "istar.Value",
+            "x": 329,
+            "y": 281,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "4637176f-af1f-45ef-8155-c6ce8ecce65d",
+            "target": "de58e8be-4aa1-43f7-8155-c6ce8ecce65d"
+        },
+        {
+            "id": "1727da43-7d30-467f-a8e8-ca2aea48e3b8",
+            "text": "经济类：电视费用",
+            "type": "istar.Value",
+            "x": 736,
+            "y": 230,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-8155-c6ce8ecce65d",
+            "target": "6b270f79-a9cd-467a-8155-c6ce8ecce65d"
+        },
+        {
+            "id": "ad85c16b-8cea-4ee8-a7d2-0f48ec5ed714",
+            "text": "产品类：电视使用权",
+            "type": "istar.Value",
+            "x": 737,
+            "y": 289,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "6b270f79-a9cd-467a-8155-c6ce8ecce65d",
+            "target": "de58e8be-4aa1-43f7-8155-c6ce8ecce65d"
+        },
+        {
+            "id": "d9974db1-2e7a-4023-ab46-1e0dec338606",
+            "text": "产品类：电视使用权",
+            "type": "istar.Value",
+            "x": 323,
+            "y": 344,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-8155-c6ce8ecce65d",
+            "target": "4637176f-af1f-45ef-8155-c6ce8ecce65d"
+        },
+        {
+            "id": "2b07a0fe-dd44-481c-9859-6a269b85a03f",
+            "text": "经济类：家电费用",
+            "type": "istar.Value",
+            "x": 321,
+            "y": 406,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "4637176f-af1f-45ef-9e1b-bcb595dafb18",
+            "target": "de58e8be-4aa1-43f7-9e1b-bcb595dafb18"
+        },
+        {
+            "id": "2734c07c-eccc-40c7-b4cc-d3e1d37cf5e1",
+            "text": "经济类：家电费用",
+            "type": "istar.Value",
+            "x": 791,
+            "y": 349,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-9e1b-bcb595dafb18",
+            "target": "3722f9e0-36c6-4b6f-9e1b-bcb595dafb18"
+        },
+        {
+            "id": "5274ad71-6827-4a2a-958b-e4f49e5ccc1a",
+            "text": "产品类：家电使用权",
+            "type": "istar.Value",
+            "x": 791,
+            "y": 408,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "3722f9e0-36c6-4b6f-9e1b-bcb595dafb18",
+            "target": "de58e8be-4aa1-43f7-9e1b-bcb595dafb18"
+        },
+        {
+            "id": "f46b945e-185d-474b-8c03-2db4104e04d2",
+            "text": "产品类：家电使用权",
+            "type": "istar.Value",
+            "x": 323,
+            "y": 468,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-9e1b-bcb595dafb18",
+            "target": "4637176f-af1f-45ef-9e1b-bcb595dafb18"
+        },
+        {
+            "id": "fc9b2392-e484-49cd-8034-31fac03f4d12",
+            "text": "经济类：笔记本费用",
+            "type": "istar.Value",
+            "x": 325,
+            "y": 537,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "4637176f-af1f-45ef-a54a-36e199585f1a",
+            "target": "de58e8be-4aa1-43f7-a54a-36e199585f1a"
+        },
+        {
+            "id": "8256f1b3-0287-4363-9a9c-9f239ee2a15e",
+            "text": "经济类：笔记本费用",
+            "type": "istar.Value",
+            "x": 777,
+            "y": 606,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-a54a-36e199585f1a",
+            "target": "01b07992-db52-475a-a54a-36e199585f1a"
+        },
+        {
+            "id": "48d8fa99-3ac9-4969-ac4f-674ce1712ab5",
+            "text": "产品类：笔记本使用权",
+            "type": "istar.Value",
+            "x": 777,
+            "y": 666,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "01b07992-db52-475a-a54a-36e199585f1a",
+            "target": "de58e8be-4aa1-43f7-a54a-36e199585f1a"
+        },
+        {
+            "id": "2517fc06-fddd-46b3-bd05-451cfc5a504e",
+            "text": "产品类：笔记本使用权",
+            "type": "istar.Value",
+            "x": 331,
+            "y": 600,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-a54a-36e199585f1a",
+            "target": "4637176f-af1f-45ef-a54a-36e199585f1a"
+        },
+        {
+            "id": "51783bf3-f5d0-4a32-892e-54fadf73f4f9",
+            "text": "经济类：手表费用",
+            "type": "istar.Value",
+            "x": 337,
+            "y": 674,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "4637176f-af1f-45ef-8e87-06ae00d1a97e",
+            "target": "de58e8be-4aa1-43f7-8e87-06ae00d1a97e"
+        },
+        {
+            "id": "04b5f9ef-4c10-4340-b992-1caf50a29aee",
+            "text": "经济类：手表费用",
+            "type": "istar.Value",
+            "x": 708,
+            "y": 694,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-8e87-06ae00d1a97e",
+            "target": "160690dc-43bc-4794-8e87-06ae00d1a97e"
+        },
+        {
+            "id": "ecdc95d9-0ed8-43d2-9e6e-7ead9dc36d9a",
+            "text": "产品类：手表使用权",
+            "type": "istar.Value",
+            "x": 707,
+            "y": 754,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "160690dc-43bc-4794-8e87-06ae00d1a97e",
+            "target": "de58e8be-4aa1-43f7-8e87-06ae00d1a97e"
+        },
+        {
+            "id": "ec9253e1-3aac-4ecf-925b-a2c7b6e279ce",
+            "text": "产品类：手表使用权",
+            "type": "istar.Value",
+            "x": 342,
+            "y": 743,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-8e87-06ae00d1a97e",
+            "target": "4637176f-af1f-45ef-8e87-06ae00d1a97e"
+        },
+        {
+            "id": "2db6729a-9068-4f88-91f9-26793e0dbfb9",
+            "text": "产品类：家居使用权",
+            "type": "istar.Value",
+            "x": 347,
+            "y": 882,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "4637176f-af1f-45ef-98d4-fc6f352d1405",
+            "target": "de58e8be-4aa1-43f7-98d4-fc6f352d1405"
+        },
+        {
+            "id": "90e4ce30-7b14-4705-a0e3-2cbabca2b4df",
+            "text": "产品类：家居使用权",
+            "type": "istar.Value",
+            "x": 644,
+            "y": 884,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-98d4-fc6f352d1405",
+            "target": "2d992f19-bf27-4221-98d4-fc6f352d1405"
+        },
+        {
+            "id": "585c927d-a929-4ef0-836a-b43012f682c0",
+            "text": "经济类：家居费用",
+            "type": "istar.Value",
+            "x": 665,
+            "y": 821,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "2d992f19-bf27-4221-98d4-fc6f352d1405",
+            "target": "de58e8be-4aa1-43f7-98d4-fc6f352d1405"
+        },
+        {
+            "id": "21676cd6-9526-4e2f-be22-2fe6f27e3826",
+            "text": "经济类：家居费用",
+            "type": "istar.Value",
+            "x": 345,
+            "y": 812,
+            "customProperties": {
+                "Type": "",
+                "Asso-Intention": "",
+                "Description": ""
+            },
+            "source": "de58e8be-4aa1-43f7-98d4-fc6f352d1405",
+            "target": "4637176f-af1f-45ef-98d4-fc6f352d1405"
+        }
+    ]
+}
