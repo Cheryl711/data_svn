@@ -1,0 +1,297 @@
+ori,{{actor:Windows10}}{{object:用户}}超过{{attribute:8亿}},{{actor:微软}}近{{attribute:15%}}的{{object:收入}}{{action:来自}}{{recipient:Windows}},2019-03-08 07:08:36
+res,{{actor:熊猫直播}}{{action:宣布}}{{object:结束}},{{attribute:22个月}}{{action:没有}}任何{{object:外部资金}}{{action:注入}},2019-03-08 07:06:48
+ori,{{actor:特斯拉}}已与{{recipient:中国多家银行}}{{action:达成}}{{object:协议}},{{action:获得}}{{attribute:5.21亿美元}}{{object:贷款}},2019-03-08 07:00:42
+ori,{{actor:英国}}{{action:计划建立}}{{recipient:车载电池工厂}},旨在{{action:提振}}{{recipient:电动车}}及{{recipient:汽车业}}{{object:发展}},2019-03-07 20:32:29
+single,白宫同意{{actor:美国}}{{attribute:第三}}、{{attribute:第四}}大{{actor:通信运营商}}{{action:合并}},2019-03-07 20:30:13
+ori,{{actor:京东}}{{recipient:海尔}}深化{{action:合作}},{{action:主打}}{{recipient:京品家电}}{{object:渠道下沉}},2019-03-07 20:07:13
+con,con,{{actor:智联招聘}},高层管理人员中,女性仅有{{attribute:18.7%}},2019-03-07 20:01:26
+mto,{{actor:比亚迪}}2月{{actor:新能源汽车}}{{object:销量}}为{{attribute:14429辆}},同比增长73%,2019-03-07 19:59:32
+mto,1药网母公司{{actor:111集团}}{{attribute:Q4}}{{object:净收入}}{{attribute:5.6亿元}},同比翻番,2019-03-07 19:55:18
+ori,{{actor:海信电器}}{{action:发布}}{{object:OLED电视新技术}},{{action:将推出}}{{recipient:OLED电视}}产品,2019-03-07 19:47:23
+single,{{actor:Facebook}}{{recipient:美国}}{{object:用户}}自{{attribute:2017年起}}{{action:减少}}{{attribute:1500万}},2019-03-07 19:39:20
+single,{{actor:海尔}}下半年{{action:将推出}}首批{{object:5G技术的智慧成套家电及场景解决方案}},2019-03-07 19:23:23
+non,mto,{{actor:百度AI}}加速器第三期,成员企业总估值提升2倍,利润同比实现翻番,2019-03-07 19:15:44
+con,{{actor:华为5G}}产品线总裁{{actor:杨超斌}},{{action:预计}}{{recipient:5G技术}}{{object:发展}}{{attribute:5亿用户}}只需{{attribute:3年}},2019-03-07 18:40:06
+con,con,{{actor:TCL集团}},{{actor:李东生}}所说{{attribute:800亿}}{{object:投资}},{{action:不需要}}{{recipient:集团股权}}融资,2019-03-07 18:37:47
+ori,{{actor:谷歌}}为机器学习框架{{recipient:TensorFlow}}{{action:发}}{{object:新模块}},{{action:提高}}{{object:隐私性}},2019-03-07 18:35:25
+single,{{actor:费列罗}}与{{recipient:京东新通路}}达成战略{{action:合作}},2019-03-07 18:30:55
+ori,{{actor:京东}}{{action:举行}}{{object:AI加速器首期DemoDay}},{{attribute:10家}}{{attribute:一期}}{{actor:加速器企业}}{{action:分享}}{{object:成果}},2019-03-07 18:27:02
+ori,{{actor:AA租车}}{{action:更名}}{{recipient:AA出行}},{{action:任命}}{{recipient:庄智强}}担任新{{object:CEO}},2019-03-07 18:20:33
+single,{{actor:科创板}}{{action:改革}}要让{{object:市场定价更合理}},2019-03-07 18:17:26
+single,{{actor:方星海}}保证质量的前提下以最快速度{{action:审核}}{{recipient:科创企业}},2019-03-07 18:06:28
+res,{{actor:方星海}}{{action:加强}}{{recipient:科创板}}{{object:审核制度}},要{{action:审出}}{{object:真公司}},2019-03-07 18:01:20
+con,{{actor:证监会}}副主席{{actor:方星海}},{{action:争取}}将{{object:注册制写进证券法}},2019-03-07 17:56:44
+non,{{actor:证监会}}副主席{{actor:方星海}},{{actor:上交所科创板}}已经可以{{action:开门迎客}},2019-03-07 17:52:57
+ori,{{actor:易到}}{{action:寻求}}新一轮{{attribute:25.5亿元}}{{object:融资}},最近{{action:收购洽谈}}方为{{actor:恒大}},2019-03-07 17:50:21
+single,{{recipient:凌空天行}}宣布{{action:完成}}{{actor:源码资本}}{{action:领投}}{{attribute:数千万人民币}}{{object:天使轮融资}},2019-03-07 17:43:19
+con,{{actor:小米集团}},{{attribute:3月19日}}{{action:举行}}{{object:董事会会议}}批准公司2018年业绩,2019-03-07 17:31:58
+single,{{actor:大众}}在{{recipient:德国}}{{action:建立}}{{object:电池回收厂}},2019-03-07 17:13:06
+single,{{actor:日本}}{{action:拟对}}{{recipient:IT巨头}}{{object:非法收集个人信息}}适用《{{object:反垄断法}}》,2019-03-07 17:11:25
+single,{{actor:蚂蚁金服}}与{{recipient:江苏润和}}{{action:联合}}发布{{object:新一代分布式金融业务核心平台}},2019-03-07 16:38:23
+single,{{actor:小米}}{{action:成立}}{{object:AIoT战略委员会}},2019-03-07 16:11:29
+single,{{actor:波音}}{{action:收购}}飞行导航软件制造商{{recipient:Foreflight}},2019-03-07 15:48:44
+con,con,{{actor:联想集团}},{{actor:杨元庆}}“{{object:高通5G强于华为}}”一文系造谣,{{action:将起诉}}相关{{recipient:自媒体}},2019-03-07 15:47:19
+non,con,{{actor:蚂蚁金服}},任何声称能强开借呗或提升额度的,都是骗子,2019-03-07 15:41:13
+con,ori,{{actor:网易相册}},{{attribute:3月6日}}起已{{action:停止}}{{object:新用户注册}},{{attribute:5月8日}}{{action:停止}}{{object:运营}},2019-03-07 15:39:48
+ori,{{actor:肖钢}}{{action:建议}}对{{recipient:互联网小额消费信贷}}进行{{object:差异化监管}},{{action:提高}}{{object:准入门槛}},2019-03-07 15:21:23
+non,{{actor:华为}}全球网络安全隐私官{{actor:Suffolk}},我们是全世界最开放的公司,2019-03-07 15:19:55
+con,{{actor:华为}}常务监事{{actor:李大丰}},我们{{action:需要}}的是{{object:开放和公平竞争}},2019-03-07 15:18:21
+con,{{actor:华为}}5G产品线总裁{{actor:杨超斌}},{{actor:华为}}{{action:投入}}{{object:5G技术}}研究已超过{{attribute:10年}},2019-03-07 15:15:19
+mto,{{actor:触宝}}{{attribute:2018年}}{{attribute:第四季度}}{{object:净收入}}{{attribute:4705万美元}},同比{{action:增长}}{{attribute:147%}},2019-03-07 14:37:21
+non,{{actor:捷龙一号}}火箭将于今年{{attribute:上半年}}{{action:首飞}},{{action:专用于}}{{object:商业航天发射}},2019-03-07 14:35:43
+ori,{{actor:印度}}{{action:批准}}{{recipient:纬创}}{{attribute:48亿元}}{{object:投资}},{{action:将为}}{{recipient:苹果}}{{object:生产高端产品}},2019-03-07 14:32:27
+ori,{{actor:特斯拉}}{{action:发布}}{{recipient:V3超级充电桩}},{{object:充电时间}}{{action:缩短}}一半,2019-03-07 13:15:37
+single,智能投放平台“{{actor:头条易}}”{{action:获}}{{recipient:人民创投}}{{object:投资}},2019-03-07 13:12:51
+ori,{{actor:蚂蚁金服}}回应{{recipient:蚂蚁韵保}}公司{{action:注销}},该公司{{action:没有}}实际投入{{object:运营}},2019-03-07 12:10:13
+single,{{actor:苹果}}{{action:新增}}多家{{recipient:中国公司}}为主要{{object:供应商}},2019-03-07 11:58:55
+single,{{actor:微软应用商店}}将{{object:开发者分成}}比例{{action:提高}}至{{attribute:95%}},2019-03-07 11:58:12
+con,{{actor:联想集团}}副总裁{{actor:王传东}},{{actor:杨元庆}}“{{object:高通5G强于华为}}”一说为谣言,2019-03-07 11:57:02
+ori,ori,{{actor:苹果}}{{action:公布}}最新{{recipient:供应商}}{{object:责任报告}},{{object:违规现象}}大幅{{action:减少}},{{actor:优质供应商}}{{action:增多}},2019-03-07 11:55:58
+single,{{actor:阿里速卖通}}{{action:推}}全{{recipient:俄}}首个{{object:网上购车服务}},2019-03-07 11:32:19
+con,{{actor:饿了么}}{{actor:口碑}},{{attribute:3月}}再{{action:投放}}{{attribute:1500万}}{{object:食安封签}},2019-03-07 11:30:54
+con,{{actor:莱宝高科}},公司与{{recipient:小米}}公司的{{action:合作}}目前已实现{{object:批量供应}},2017-11-17 21:29:46
+single,美国网络安全公司{{actor:TortugaLogic}}{{action:获}}{{attribute:200万美元}}{{object:种子轮融资}},2017-11-17 21:26:42
+single,{{actor:英特尔}}&{{actor:硬蛋}}在{{actor:深圳}}{{action:举办}}{{object:机器人生态连接大会}},2017-11-17 21:22:30
+single,“{{actor:中关村安信网络身份认证产业联盟}}”{{action:在}}{{recipient:京}}{{object:正式启动}},2017-11-17 21:05:37
+single,物联网公司“{{actor:物联时代}}”{{action:完成}}{{attribute:5000万美元}}{{object:Pre-A轮融资}},2017-11-17 21:00:55
+single,{{actor:欧盟}}将其对{{recipient:高通}}与{{recipient:恩智浦}}{{object:交易的审查最后期限}}{{action:更新}}为{{attribute:3月15日}},2017-11-17 20:48:40
+ori,{{actor:QQ备忘录}}于今日{{action:下线}},{{object:数据}}已被自动{{action:转移}}到{{recipient:QQ收藏}},2017-11-17 20:41:38  
+single,{{actor:万达}}寻求以{{attribute:50亿美元}}一次性打包{{action:卖出}}{{attribute:五处}}{{object:海外资产}},2017-11-17 20:33:47
+res,{{actor:詹姆斯·韦伯太空望远镜}}{{action:尚未发射}},已{{action:被分配}}{{object:首批观测任务}},2017-11-17 20:22:11
+con,{{actor:中电广通}},{{attribute:1.25亿元}}在{{recipient:雄安新区}}{{action:参设}}{{object:新能源投资公司}},2017-11-17 20:12:01
+ori,{{action:专注}}{{object:高品质呼吸制剂}},{{actor:欧米尼医药}}{{action:完成}}{{attribute:2.6亿元}}{{object:C轮融资}},2017-11-17 19:59:55
+ori,传{{actor:康卡斯特}}{{action:拟收购}}{{recipient:21世纪福克斯部分资产}},双方正在{{action:谈判}},2017-11-17 19:50:48
+ori,{{actor:大众}}{{action:欲成}}{{object:电动车领域领导者}},未来{{attribute:5年}}或{{action:投}}{{attribute:825亿美元}},2017-11-17 19:38:34
+con,{{recipient:酷派集团}},{{actor:贾跃亭}}{{action:辞任}}{{object:公司执行董事}}、{{object:董事会主席}}及{{object:提名委员会主席}},2017-11-17 19:32:21
+ori,{{actor:土耳其比特币“富豪”}}{{action:遭}}{{object:黑帮绑架}},{{action:被勒索}}{{object:比特币}}{{attribute:450个}},2017-11-17 19:21:44
+con,{{actor:江城易单车}},决定{{action:停止运营}}{{recipient:武汉}}{{object:公共自行车}},2017-11-17 19:10:50
+ori,{{actor:途牛}}COO{{actor:严海锋}}和CFO{{actor:杨嘉宏}}{{action:辞职}},原副总裁{{actor:辛怡}}{{action:接任}}{{object:CFO}},2017-11-17 19:00:10
+single,{{actor:创新工场}}出资{{attribute:4250万元}}{{action:设}}{{object:人工智能研究子公司}},2017-11-17 18:53:47
+single,信用租机平台{{actor:享换机}}{{action:完成}}{{attribute:1.1亿元人民币}}{{object:天使轮和A轮融资}},2017-11-17 18:32:28
+ori,{{actor:Major}}大调{{action:获}}{{attribute:千万级}}{{object:A轮融资}},{{action:要做}}“{{object:商业体里的主题乐园}}”,2017-11-17 18:31:06
+non,{{actor:SpaceX}}将{{action:发射}}{{object:神秘飞行器}},美国高度机密,2017-11-17 18:28:06
+con,{{actor:奥马电器}},拟出资{{attribute:1.26亿元}}{{action:联合发起}}{{object:消费金融公司}},2017-11-17 17:52:36
+single,{{actor:谷歌}}宣布对外{{action:开放}}聊天机器人数据分析平台{{recipient:Chatbase}},2017-11-17 17:41:01
+single,移动物流配货平台{{actor:运满满}}{{action:完成}}{{attribute:1.2亿美元}}{{object:D3轮融资}},2017-11-17 17:31:08
+ori,{{actor:京东}}、{{actor:腾讯}}{{action:发力}}{{object:微信小程序}},{{action:力推}}“{{recipient:京商城}}”与“{{recipient:轻商城}}”,2017-11-17 17:24:34
+ori,{{actor:腾讯}}与{{recipient:工商总局竞争执法局}}签订战略{{action:合作}},{{action:探索}}创建“{{object:无传销网络平台}}”,2017-11-17 17:12:02
+ori,{{actor:华为}}与{{recipient:爱丁堡大学}}签署{{action:合作}},{{action:探索}}{{object:AI机器人}},2017-11-17 17:09:42
+single,{{actor:央行非金融机构}}{{action:不得发行、销售}}{{object:资管产品}},2017-11-17 17:05:41
+ori,{{actor:谷歌前工程师}}{{action:注册}}{{object:AI教会}},{{action:创造}}{{object:上帝机器人}}统治人类,2017-11-17 17:03:41
+con,{{actor:Intel}}计划彻底{{action:封杀}}{{recipient:Windows7}}系统,{{attribute:2020年}}之前搞定,2017-11-17 16:57:53
+con,ori,{{actor:深康佳A}},拟出资{{attribute:10亿元}}{{action:成立}}{{recipient:康佳多媒体公司}},{{action:运营}}{{object:彩电业务}},2017-11-17 16:49:46
+non,non,{{actor:七彩单车}}{{recipient:员工}}曝{{action:拖欠}}{{object:工资}},创始人,胡说八道必须道歉,2017-11-17 16:46:59
+ori,{{actor:一卡通}}{{action:研发}}{{object:小程序}},轻松{{action:查询}}你的{{object:手机是否支持开通一卡通}},2017-11-17 16:44:50
+con,ori,{{actor:宜通世纪}},{{action:与}}{{recipient:中国联通}}{{object:签署协议}},拟在{{object:资本、物联网等多领域}}战略{{action:合作}},2017-11-17 16:33:43
+single,《{{actor:王者荣耀}}》{{object:新英雄}}“明世隐”{{action:曝光}},2017-11-17 16:28:41
+ori,全力{{action:开发}}{{object:OLED}},{{actor:LG}}{{action:再关}}{{object:LCD生产线}},2017-11-17 16:20:22
+single,{{actor:“i代”}}{{action:完成}}{{attribute:1000万人民币}}{{object:Pre-A轮融资}},2019-03-11 19:11:50
+single,{{actor:君信财富}}{{action:完成}}{{attribute:数千万人民币}}战略投资{{object:融资}},2019-03-11 18:44:16
+single,{{actor:美团}}平台{{attribute:2018年}}总{{object:交易金额}}为{{attribute:5156亿元}},2019-03-11 18:25:45    
+non,{{actor:乐视网}}{{action:新增}}{{attribute:3条}}{{object:被执行人信息}},2019累计执行标的金额超2亿,2019-03-11 18:22:59 
+con,ori,{{actor:海航集团}},公司{{action:拥有}}{{attribute:11家}}{{object:波音737MAX8飞机}},已{{action:停运}},2019-03-11 18:06:46
+single,{{actor:天津}}{{attribute:2020年}}{{actor:新能源汽车}}{{object:保有量}}{{action:占比}}达到{{attribute:4.5%}},2019-03-11 17:54:24  
+ori,{{actor:中消协}}{{attribute:2018}}{{object:汽车投诉报告}},{{actor:比亚迪}}、{{actor:奔驰}}、{{actor:宝马}}{{object:投诉量}}位居{{attribute:前三}},2019-03-11 17:53:09
+ori,{{actor:永辉mini}}{{recipient:北京}}{{action:开}}首{{object:店}},{{action:开拓}}社区{{object:生鲜市场}},2019-03-11 17:48:35 
+single,电信企业{{actor:沃达丰}}{{action:在}}{{recipient:新西兰}}{{object:裁员}}{{attribute:两千人}},2019-03-11 17:46:31
+single,{{actor:特斯拉}}国产化对{{recipient:中国品牌汽车}}{{action:冲击}}很大,2019-03-11 17:32:10 
+ori,{{actor:贝壳找房}}已为{{object:上市}}做好{{action:准备}},{{actor:链家}}或{{action:成}}{{recipient:二级公司}},2019-03-11 16:58:05
+single,{{actor:“常仁科技”}}{{action:获}}{{attribute:1亿元}}{{object:A轮融资}},2019-03-11 16:48:11
+mto,阿里巴巴回应“{{actor:张勇}}{{action:卸任}}{{recipient:阿里创投}}公司{{object:法人}}”,常规管理动作,2019-03-11 16:38:39 
+single,{{actor:腾讯}}{{action:入股}}{{recipient:谊品生鲜}},2019-03-11 16:37:10
+single,{{actor:特斯拉}}与{{recipient:宁德时代}}就{{object:电池订单}}进行{{action:磋商}},2019-03-11 16:26:44 
+single,{{actor:工信部}}{{action:发布}}{{attribute:第七批}}享受{{object:税减优惠的新能源汽车车型目录}},2019-03-11 15:56:39
+ori,雷诺日产{{actor:三菱}}{{action:计划举行}}联合{{object:新闻发布会}},{{actor:戈恩}}{{action:申请}}{{object:参会}},2019-03-11 15:45:55
+single,东南亚“智能金融决策平台”{{actor:Silot}}{{action:完成}}{{attribute:800万美元}}{{object:A轮融资}},2019-03-11 15:42:02
+single,{{actor:陕西}}对在“双创板”成功挂牌和融资的{{recipient:中小企业}}给予{{action:奖励}},2019-03-11 15:38:46
+single,{{actor:耀海生物}}{{action:完成}}超{{attribute:5000万元}}{{object:A轮融资}},2019-03-11 15:10:47
+single,意大利时尚品牌{{actor:MOSCHINO}}宣布与{{recipient:京东}}集团达成{{action:合作}},2019-03-11 14:37:12
+single,{{actor:百度}}{{action:新增}}{{object:电信业务}},2019-03-11 14:32:32
+res,{{actor:携程}}回应{{object:“大数据杀熟”}}并{{action:致歉}},二次支付无票是系统Bug,2019-03-11 14:31:59 
+single,阿里{{actor:“亩产一千美金计划”}}{{action:覆盖}}了{{attribute:221个}}{{recipient:国家级贫困县}},2019-03-11 14:22:29
+ori,瑞银{{actor:拼多多}}{{object:GMV}}三年将超{{attribute:2万亿}},薄弱公众沟通能力成主要短板,2019-03-11 14:20:46 
+single,{{actor:特斯拉}}公司全球平均{{action:涨价}}{{attribute:3%}},2019-03-11 14:09:38  
+ori,{{actor:英雄互娱}}拟{{action:借壳}}{{recipient:赫美集团}},{{actor:深交所}}{{action:发}}{{object:问询函}},2019-03-11 14:01:55
+ori,{{actor:乐天百货}}即将{{action:退出}}{{recipient:天津}},{{actor:中国}}{{action:剩}}{{attribute:3家}}{{object:门店}},2019-03-11 14:00:58
+con,{{actor:蚂蚁金服}}内部人士,目前{{action:没有}}{{object:上市时间表}},2019-03-11 13:54:06
+single,{{actor:贝壳研究院}}院长{{actor:杨现领}}{{action:离职}},2019-03-11 13:39:34 
+ori,{{actor:雷军}}{{action:退出}}{{object:股东}}行列后,小米旗下{{actor:紫米}}{{action:新增}}{{attribute:10倍}}{{object:注册资本}},2019-03-11 13:33:31 
+single,{{actor:菊梅}}医生{{action:发布}}{{object:“关爱肝”慢乙肝全病程保障计划}},2019-03-11 13:23:23
+con,{{actor:爱康国宾}}回应“{{object:完成并购融资}}”,正在{{action:核实}},2019-03-11 13:07:05
+single,政协委员透露{{actor:蚂蚁金服}}正在{{action:筹备}}{{object:科创板}},2019-03-11 12:54:55
+single,{{actor:蚂蚁金服}}旗下{{action:新增}}{{attribute:一家}}{{object:城市服务公司}},2019-03-11 12:28:39
+single,{{actor:国家药监局}}{{action:拟筹建}}{{recipient:人工智能医疗器械创新联盟}},2019-03-11 12:17:40
+ori,{{actor:鸿海}}{{action:回应}}遭{{recipient:微软}}{{object:起诉}},{{action:不评论}}{{object:正在进行中的司法案件}},2019-03-11 11:38:04
+res,mto,{{actor:携程}}{{action:致歉}},二次支付无票是系统Bug,绝无大数据杀熟,2019-03-11 11:35:29 
+single,{{actor:新东方在线}}下月{{action:将}}在港股{{object:上市}},2019-03-11 11:30:38 
+single,{{actor:马云旗下公司}}{{action:成立}}{{attribute:10亿注册资本}}{{object:新公司}},2019-03-11 11:29:41
+con,{{actor:市场监管总局}}局长{{actor:张茅}},依法{{action:加大}}{{object:食品安全违法成本}},2019-03-11 11:15:59
+ori,{{actor:阿里巴巴}}谈{{action:投资}}{{object:物流行业}},将{{object:物流成本}}从目前的GDP占比{{attribute:16%}}{{action:降低}}到{{attribute:5%}},2019-03-11 11:08:18
+single,{{actor:美团}}旗下公司{{action:新增}}{{object:企业信用信息咨询业务}},2019-03-11 10:59:50
+con,{{actor:国家药监局}},要对{{object:疫苗}}实施最严格的{{action:监管}},2019-03-11 10:55:58
+ori,{{actor:特斯拉}}国内{{action:暂无}}{{object:关店计划}},明年将在多地{{action:增开}}{{object:直营店}},2019-03-11 10:54:29
+single,{{actor:网易游戏}}{{action:新增}}{{object:电信业务}},2019-03-11 10:53:00
+non,ori,{{actor:科技部}}部长{{actor:王志刚}},{{actor:科创板}}把{{object:无形资产}}、把能力作为重点,是为了{{action:促进}}{{object:成果转化}},2019-03-11 10:38:56
+single,{{actor:小米}}{{action:注销}}旗下{{attribute:一家}}{{object:小贷公司}},2019-03-11 10:13:30
+ori,{{actor:OPPO}}{{action:宣布}}全新系列{{recipient:Reno}},新品{{actor:将}}于{{attribute:4月10日}}{{object:发布}},2019-03-11 10:10:23
+single,“{{actor:游美国际营地教育}}”{{action:获}}{{attribute:数千万元}}{{object:A轮融资}},2019-03-11 09:43:11
+ori,{{actor:申通快递}}{{action:获}}{{recipient:阿里}}{{attribute:46.6亿元}}{{object:入股}},开盘{{action:涨停}},2019-03-11 09:29:09
+single,{{actor:科技部}}{{attribute:2019年}}将{{action:发布}}{{object:国家生物技术发展战略纲要}},2019-03-11 09:14:03
+ori,{{actor:张勇}}{{action:不再担任}}{{recipient:阿里创投}}管理公司{{object:法人}},{{actor:戴珊}}{{action:接任}},2019-03-11 09:08:49
+ori,传{{actor:戴尔创始人}}{{action:联手}}{{recipient:纽约洋基队}},{{action:买}}{{recipient:YESNetwork体育频道}},2019-03-11 08:47:59
+ori,{{actor:百度搜索}}{{action:全面接入}}{{object:智能小程序}},权重提升、{{action:开放}}{{object:更多流量}},2019-03-11 08:38:23
+single,全自主服务机器人方案提供商“{{actor:越凡创新}}”{{action:获}}{{attribute:数千万元}}{{object:A轮融资}},2019-03-11 08:10:14
+single,{{actor:阿里巴巴}}{{attribute:46.6亿元}}{{action:入股}}{{recipient:申通快递}},2019-03-11 07:53:16
+ori,ori,{{actor:苹果}}为{{recipient:用户}}{{action:发}}{{object:红包}},{{object:账户充值}}可{{action:获}}{{attribute:10%}}{{object:现金奖励}},{{action:限额}}{{attribute:200美元}},2019-03-11 07:47:41 
+ori,45只{{actor:科创板基金}}密集{{action:上报}},近七成{{action:已获受理}},2019-03-11 07:42:50
+single,{{actor:北京市}}{{action:拟建}}{{recipient:教育行政执法专业机构}},2019-03-11 07:36:01
+single,消息称{{actor:中国国内航司}}{{action:暂停运行}}{{object:波音737MAX客机}},2019-03-11 07:21:47
+ori,{{actor:百度}}{{action:入股}}{{recipient:汉得信息}}被疑“借壳”,回复称暂{{action:无意}}{{object:控股权}},2019-03-11 07:19:05
+single,{{actor:上海风语筑}}全资{{action:成立}}“{{recipient:要看文创}}”,2019-03-11 07:05:26
+single,{{actor:中国载人深潜器}}首次{{action:完成}}{{object:覆盖西南印度洋和中印度洋的深潜科考}},2019-03-10 15:53:55
+ori,{{actor:华为}}{{action:起诉}}最新进展,{{actor:美国法院}}{{action:已给}}{{recipient:美国政府}}{{object:发传票}},2019-03-10 13:26:12
+single,华住集团为旗下{{actor:桔子水晶酒店}}{{object:低俗营销推送}}{{action:道歉}},2019-03-10 12:31:00
+con,{{actor:扎克伯格}},后悔没能早点{{action:学}}{{recipient:微信}},2019-03-10 10:51:32
+res,{{action:告别}}“{{object:订制}}”,{{attribute:2022年}}前我国{{actor:载人飞船}}将{{action:批量生产}},2019-03-10 10:14:24
+single,{{actor:特斯拉}}将{{recipient:标准版Model3}}{{object:交付时间}}{{action:推迟}}{{attribute:4周}},2019-03-10 10:04:05
+single,太阳系内的{{actor:第九大行星}}{{actor:或将}}在{{attribute:十年内}}{{object:现身}},2019-03-10 10:02:36
+ori,{{actor:微软}}{{action:起诉}}{{recipient:鸿海}}违反{{object:专利授权协议}},{{action:要求}}补缴{{object:专利费}},2019-03-10 09:58:59
+ori,ori,{{actor:董明珠}}{{action:谈}}{{recipient:小米}}做{{object:空调}},{{object:质量}}和{{object:技术}}{{action:比他们好}},{{action:没有}}{{object:压力}},2019-03-10 09:56:47
+non,ori,人大代表,{{object:高铁手机信号}}弱{{action:有待改进}},应免费{{action:覆盖}}{{recipient:WiFi}},2019-03-10 09:34:39
+single,{{actor:时尚传媒}}董事长{{actor:刘江}}突发疾病{{actor:去世}},2019-03-10 09:31:27
+single,{{actor:中国}}成功{{action:发射}}“{{recipient:中星6C}}”卫星,2019-03-10 09:22:45
+con,{{actor:特斯拉}}门店销售人员,{{object:中国地区门店}}暂{{action:不会关闭}},2019-03-10 09:20:28
+ori,{{actor:天津}}市{{action:实施}}{{object:创新型企业领军行动计划}},分类{{action:精准支持}},2019-03-09 17:19:39
+single,{{actor:丰田}}在{{recipient:中国}}{{action:推出}}{{object:首款新能源车型}},2019-03-09 17:15:24
+con,{{actor:招商局}}{{actor:李建红}},对外开放应从要素开放转向制度开放,2019-03-09 17:14:27
+single,{{actor:国资委}}第四批会有100多家混合所有制的企业,2019-03-09 17:13:30
+single,国产大型水陆两栖飞机{{actor:“鲲龙”AG600}}将陆续{{action:投产}}{{attribute:4架}}{{object:试飞机}},2019-03-09 16:29:15
+single,至少{{attribute:6家}}{{actor:券商}}已为合格投资者直接{{action:开通}}{{recipient:科创板}}权限,2019-03-09 16:26:14
+con,{{actor:易居企业}}集团CEO{{actor:丁祖昱}},开发商{{object:不要冲动拿地}},2019-03-09 14:45:28
+ori,{{actor:北京}}顶格{{action:减征}}{{object:六税两费}},近2万户{{actor:小微企业}}申报{{action:享}}{{object:税收优惠}},2019-03-09 13:08:18
+non,ori,{{actor:商务部}}部长{{actor:钟山}},{{actor:养老服务}}{{action:是}}个明显{{object:短板}},{{object:床位}}每年短{{action:缺}}{{attribute:200多万}}个,2019-03-09 11:43:07
+single,{{actor:商务部}}进一步{{action:扩大}}{{recipient:海南}}{{object:国际航运、旅游等领域的开放}},2019-03-09 11:37:46
+single,{{actor:北京}}个人买卖{{recipient:二手房}}多项{{object:税费}}{{action:减半}},2019-03-09 11:25:48
+single,{{actor:特斯拉}}{{action:临时性冻结}}{{object:门店}}关闭和临时性停止{{object:聘用员工的计划}},2019-03-09 10:11:30
+single,{{actor:高通}}希望在{{recipient:苹果}}专利案中{{action:获得}}{{attribute:3100万美元}}的{{object:赔偿}},2019-03-09 09:09:21
+non,苹果分析师{{actor:郭明錤}},{{actor:苹果}}将最早于今年年底{{action:生产}}{{object:AR设备}},2019-03-09 09:02:17
+con,{{actor:58同城}}CEO{{actor:姚劲波}},{{actor:互联网}}下一波{{object:发展红利}}{{action:在}}{{recipient:乡村}},2019-03-09 08:30:11
+single,做空机构{{actor:香橼}}{{action:预计}}{{recipient:特斯拉}}{{object:股价}}将回到{{attribute:320美元}},2019-03-09 08:27:14
+con,{{actor:中国电信}},公司总裁{{actor:柯瑞文}}{{action:代行}}{{object:董事长}}以及{{object:首席执行官}}职权,2019-03-08 20:51:54
+ori,{{actor:百度}}{{action:坚决打击}}{{recipient:“野马”旅行社}}{{object:欺诈行为}},已{{action:报案}},2019-03-08 20:33:42
+ori,{{actor:亚马逊}}{{action:停止}}{{object:批发零售}},{{action:鼓励}}直接{{object:卖给消费者}},2019-03-08 20:22:36
+single,{{actor:我国}}计划{{attribute:2020年}}{{action:初步建立}}{{object:工业互联网标准体系}},2019-03-08 20:21:24
+single,传{{actor:特斯拉}}{{action:尚未决定}}在{{object:何处生产}}{{recipient:ModelY}},2019-03-08 20:19:26
+single,{{actor:苹果}}{{actor:AppStore}}及{{actor:音乐平台}}{{action:上线}}{{object:女性专题}},2019-03-08 20:17:44
+ori,{{actor:万科}}{{action:下调}}{{attribute:2019年}}{{object:回款目标}},比去年{{action:减少}}{{attribute:300亿}},2019-03-08 20:14:52
+res,{{actor:日产CEO}}计划{{action:延长}}{{object:在任时间}},1月时曾{{action:表示}}{{object:不久卸任}},2019-03-08 20:00:35
+single,{{actor:证监会}}{{action:发布}}{{object:《科创板创新试点红筹企业财务报告信息特别规定》}},2019-03-08 19:55:04
+ori,{{actor:苹果}}{{action:更新}}前{{attribute:200家}}{{object:供应商名单}},多家上市公司为新面孔,2019-03-08 19:52:25
+con,{{actor:证监会}}首席会计师,监管{{action:关注}}{{object:计提减值}}及其{{object:信息披露}}的{{object:合规性}},2019-03-08 19:34:06
+res,non,{{actor:腾讯直播}}{{action:内测}},{{action:基于}}{{recipient:小程序}}开放能力开发,非微信官方推出,2019-03-08 19:14:00
+con,mto,{{actor:万达电影}},{{attribute:2月}}{{action:实现}}{{object:票房}}{{attribute:14.9亿元}},{{object:观影}}{{attribute:3034.1万人次}},2019-03-08 18:55:11
+single,{{actor:中国人民银行金融科技委员会}}{{action:召开}}{{attribute:2019年}}第一次{{object:会议}},2019-03-08 18:45:20
+ori,{{actor:科创板}}{{object:交易权限}}已有人{{action:开通}},21家{{actor:券商}}{{object:预约人数}}超{{attribute:10万}},2019-03-08 18:44:50
+single,{{actor:一汽}}{{action:撤销}}{{recipient:解放事业本部}}和{{recipient:奔腾事业本部}},2019-03-08 18:22:47
+con,{{actor:京东}}过去一年,有{{attribute:2800家}}{{recipient:服务商}}与{{actor:京东}}{{action:合作}},2019-03-08 18:04:00
+single,近20{{actor:中国驻外使领馆}}{{action:接入}}{{recipient:微信支付}},2019-03-08 18:00:04
+res,{{actor:网易云音乐}}副总裁{{actor:王诗沐}}{{action:离职}},曾{{action:分管}}{{object:产品中心}},2019-03-08 17:57:05
+single,{{actor:腾讯音乐}}娱乐集团宣布{{object:管理层}}{{action:调整}},2019-03-08 17:54:27
+single,{{attribute:十余家}}{{actor:券商}}已{{action:上线}}{{recipient:科创板}}{{object:预约通道}},2019-03-08 17:50:15
+ori,{{object:人事}}{{action:频繁变动}},{{actor:基金公司}}忙{{object:架构}}{{action:调整}},2019-01-15T08:46:14+08:00
+ori,{{actor:德邦}}正式{{action:更名}}{{recipient:德邦快递}},{{action:推出}}{{object:大件快递产品}},2018-07-03T07:51:42+08:00
+ori,{{actor:德邦物流}}{{object:IPO}}{{action:中止审查}},2017-08-28T14:10:44+08:00
+single,{{actor:蚂蚁金服}}{{action:谋求控股}}{{recipient:德邦证券}},2015-11-04T13:25:38+08:00
+single,{{actor:华为}}与{{recipient:德邦}}{{action:签署}}{{object:战略合作协议}},2018-06-28T17:22:37+08:00
+mto,{{actor:德邦物流}}{{action:重启}}{{object:IPO}},{{object:盈利可持续性}}{{action:存疑}},2017-04-14T14:14:37+08:00
+single,{{actor:福佑卡车}}与{{recipient:德邦物流}}{{action:达成}}{{object:战略合作}},2016-04-19T15:04:17+08:00
+ori,{{actor:德邦}}终于{{action:要上市}},{{actor:崔维星}}{{action:持股}}{{attribute:33.04%}},2017-03-17T08:48:01+08:00
+con,{{actor:德邦}}大{{action:调整}},{{object:快递}}、{{object:零担}}、{{object:运营}}“三合一”,2016-08-17T13:08:31+08:00
+single,{{actor:企业微信}}与{{recipient:德邦快递}}{{action:达成}}{{object:战略合作}},2018-07-16T10:34:47+08:00
+single,{{actor:德邦快递}}与{{recipient:网易云}}{{action:联合打造}}“{{object:智能物流}}”,2018-10-17T17:16:49+08:00
+mto,{{actor:德邦}}上半年{{object:营收}}过{{attribute:百亿}},{{object:净利润}}{{action:增长}}{{attribute:160%}},2018-08-21T09:05:02+08:00
+con,{{actor:德邦股份}},{{action:拟推}}{{attribute:2.2亿元}}{{object:员工持股计划}},2018-09-02T14:27:29+08:00
+single,{{actor:德邦快递}}宣布与{{recipient:钟鼎创投}}{{action:携手}}投资{{object:能运物流}},2018-09-20T18:13:50+08:00
+ori,{{actor:德邦快递}}{{action:成为}}{{recipient:CBA}}官方{{object:赞助商}},{{actor:易建联}}{{action:入职}},2017-10-27T11:11:37+08:00
+con,{{actor:德邦快递}}{{actor:崔维星}},“{{object:小步快跑}}”,{{action:挺进}}{{object:大件快递市场}},2018-09-27T08:56:24+08:00
+ori,{{actor:德邦物流}}{{object:IPO}}{{action:再次中止审查}},将在{{attribute:9月}}底{{action:恢复}}{{object:排队}},2017-08-29T08:36:31+08:00
+ori,{{actor:德邦}}一波三折{{action:再次冲刺}}{{object:上市}},{{action:追赶}}{{recipient:五大快递企业}},2017-03-18T10:03:38+08:00
+con,mto,{{actor:德邦股份}},首份{{object:年报效益}}{{action:凸显}},{{object:大件快递}}{{action:增速}}显著,2018-04-24T10:53:40+08:00
+single,{{actor:ofo}}已{{action:拖欠}}{{recipient:云鸟}}、{{recipient:德邦}}等多家物流供应商{{attribute:亿元}}{{object:欠款}},2018-09-01T10:15:52+08:00
+res,{{actor:百度}}{{action:回应}}用户搜出“{{object:假德邦物流}}”被坑,违规推广系资质审核{{action:误判}},2018-04-23T07:09:24+08:00
+ori,{{actor:东方航空}}{{object:物流业务}}的混合制{{action:改革}},可能{{action:引入}}{{recipient:绿地}}、{{recipient:联想}}、{{recipient:德邦}}等股东,2017-04-27T09:51:28+08:00
+con,ori,{{actor:德邦物流}}创始人,{{action:学}}{{recipient:华为}}要贯彻{{object:淘汰制}},{{object:干部}}每年要{{action:淘汰}}{{attribute:10%}},2018-01-16T13:31:03+08:00
+single,{{actor:德邦}}{{action:推出}}“{{recipient:德邦e家}}”零担{{object:电商整体解决方案}},2016-08-30T12:30:04+08:00
+ori,{{actor:蚂蚁金服}}{{action:收购}}{{recipient:德邦证券}}“{{object:流产}}”,{{actor:第三方证券交易接口}}或{{action:不再新批}}{{object:任何增量}},2017-05-05T10:21:29+08:00
+ori,{{actor:联想控股}}战略{{action:入股}}{{recipient:东航物流}},将{{action:持股}}{{attribute:25%}},2017-06-20T09:04:28+08:00
+ori,{{actor:东航物流}}{{object:混改}}{{action:落定}},{{actor:东航集团}}{{action:放弃}}持有{{object:绝对控股权}},2017-06-19T10:57:22+08:00
+ori,{{actor:韵达股份}}{{object:季报}}{{action:出炉}},募资{{attribute:45.17亿元}}{{action:开建}}{{object:智能化转运中心}},2017-05-04T13:38:02+08:00
+ori,{{actor:韵达股份}}{{action:发布}}{{object:业绩快报修正公告}},{{object:营业总收入}}{{attribute:7.35亿元}},{{object:净利}}{{attribute:1.59亿元}},2017-04-10T10:12:00+08:00
+mto,{{actor:韵达股份}},{{attribute:12月}}{{object:快递服务业务}}收入逾{{attribute:10亿元}},同比增{{attribute:三成}},2018-01-18T19:37:31+08:00
+ori,{{actor:苹果}}{{action:进军}}{{object:3D打印}}取得新进展,{{object:市场规模}}{{action:攀上}}{{attribute:百亿美元}},2018-01-17T21:02:21+08:00
+ori,{{actor:奇点汽车株洲生产基地}}{{action:开工}},正式{{action:进军}}{{object:新能源商用车}}领域,2018-10-19T15:45:14+08:00
+mto,{{actor:丰巢}}{{attribute:2018}}{{object:取件量}}近{{attribute:25亿}},{{attribute:90后}}{{attribute:00后}}{{object:用户}}近{{attribute:46%}},2019-01-29T07:47:39+08:00
+single,{{actor:丰巢}}{{action:获}}{{attribute:25亿元}}{{object:A轮融资}},2017-01-05T21:51:51+08:00
+ori,传{{actor:丰巢}}{{action:强制}}{{object:取件收费}},官方回应,{{actor:用户}}{{action:有}}{{object:主动选择权}},2018-09-21T16:07:11+08:00
+ori,“{{actor:掌门1对1}}”被曝为{{action:打广告}},{{action:伪造}}{{object:民办学校办学许可证}},2018-09-04T14:27:50+08:00
+con,{{actor:苏宁物流}}系统,{{recipient:百世}}等33开头{{object:单号}}将{{actor:无法查询}},2019-03-27T17:43:04+08:00
+con,消息称{{actor:百世快递}}“换帅”,原总经理{{actor:周建}}即将到{{recipient:百世国际}}{{action:上任}},2016-12-30T11:46:29+08:00
+ori,{{actor:百世快递}}称“{{object:开放共享才能共赢}},​​​​”,{{action:质疑}}{{recipient:京东}}对{{object:服务质量的判定标准}},2017-07-25T14:12:07+08:00
+con,{{actor:京东}},只{{action:暂停}}了{{recipient:天天快递}}和{{recipient:百世快递}},2017-07-26T17:32:46+08:00
+single,{{actor:京东}}宣布将与{{recipient:天天}}、{{recipient:百世}}{{action:终止}}{{object:合作}},2017-08-11T18:58:57+08:00
+con,{{object:快递企业申诉率权威排名}}{{action:公布}},{{actor:百世}}{{attribute:7月}}{{object:服务质量}}{{action:超}}{{recipient:京东}},2017-08-22T17:43:57+08:00
+ori,{{actor:百世物流}}向{{recipient:美国SEC}}{{action:递交}}{{object:IPO招股书}},拟{{object:融资}}{{attribute:7.5亿美元}},2017-06-27T07:37:03+08:00
+single,{{actor:阿里}}借道百世{{action:收购}}西安便利店{{recipient:爱得宝}},2018-10-30T12:55:49+08:00
+mto,{{actor:百世物流}}{{attribute:Q3}}{{object:营收}}{{attribute:71.89亿元}},同比{{action:增长}}{{attribute:34.3%}},2018-11-09T19:13:45+08:00
+ori,{{actor:百世}}{{action:回应}}“{{object:退市}}”,只是{{action:更改}}了{{object:股票交易代码}},2019-02-20T17:28:19+08:00
+single,{{actor:百世店加}}与{{recipient:物产电商}}{{action:达成}}战略{{object:合作}},2017-02-15T11:45:35+08:00
+con,{{actor:百世快运}},{{action:上线}}{{object:家具送装服务}},2018-09-10T16:35:44+08:00
+ori,{{actor:投资者}}{{action:反应冷淡}},{{actor:百世物流}}{{action:缩减}}{{object:IPO融资规模}},2017-09-19T15:50:58+08:00
+con,{{actor:百世物流}}将{{object:IPO}},{{actor:出售}}{{attribute:6210万股}}{{object:ADS}},{{object:价格}}区间{{attribute:13-15美元}},2017-09-07T10:21:04+08:00
+non,{{actor:顺丰}}{{actor:王卫}}{{action:登顶}}{{object:A股首富}},{{actor:蓝思科技}}{{actor:周群飞夫妇}}{{object:排名}}{{action:窜升}},2017-10-13T14:45:00+08:00
+ori,国内首次在网上司法{{action:拍卖}}{{recipient:波音747}},{{actor:顺丰}}{{attribute:3.2亿}}{{action:拍走}}{{attribute:两架}},2017-11-21T12:27:06+08:00
+ori,{{actor:顺丰}}募资{{attribute:80亿元}}{{action:定增}}完成{{object:股份登记托管}},{{action:拿}}{{attribute:3亿}}{{recipient:招飞行员}},2017-08-21T18:39:29+08:00
+ori,{{actor:顺丰}}、{{actor:北汽}}等四家单位{{action:签署}}战略{{object:合作协议}},{{action:推进}}{{object:无人机研发生产}},2017-10-30T12:01:07+08:00
+ori,{{actor:顺丰}}{{object:春节高峰应对预案}},{{recipient:临时需求客户}}仅能{{action:提供}}{{object:有限服务}}并酌情{{action:收取}}{{object:资源调节费用}},2018-02-07T17:57:28+08:00
+ori,{{actor:高通}}、{{actor:招商局}}、{{actor:顺丰}}{{action:签约入围}}{{recipient:小米}}{{object:IPO基石投资者名单}},{{action:接受}}{{recipient:小米}}{{attribute:700亿～850亿美元}}{{object:估值}},2018-06-19T19:15:00+08:00
+con,{{actor:航天电子}},与{{recipient:顺丰控股}}{{action:联合研制}}的{{object:大商载远程无人运输机系统}}首飞成功,2018-09-24T14:50:06+08:00
+con,mto,{{actor:顺丰控股}},{{recipient:电商件}}的{{object:整体增幅}}目前在{{action:减缓}},小的做落地配公司份额再加大,2017-05-12T10:04:19+08:00
+con,ori{{actor:顺丰集团}}{{actor:王卫}},积极{{action:响应}}{{object:国家军民融合发展战略}},{{action:助推}}{{recipient:军队}}采购{{object:供应链转型升级}},2017-12-13T18:11:01+08:00
+con,{{actor:百度}}回应{{actor:李彦宏}}{{action:卸任}}{{recipient:百度投资}}{{object:董事}},属正常调整,2019-03-07 11:27:45
+single,“{{actor:高瓴制药}}”{{action:获}}{{attribute:数千万元}}战略{{object:融资}},2019-03-07 11:22:04
+single,{{actor:贝斯平云科技}}{{action:入选}}{{recipient:Gartner}}{{object:公有云基础设施专业管理服务提供商}}魔力象限,2019-03-07 11:19:51
+single,{{actor:小米}}预计于{{attribute:5、6月}}在国内{{action:发布}}第一台{{object:5G手机}},2019-03-07 10:59:32
+con,《{{object:2019年职场女性就业安居报告}}》,近三成职场女性薪资过万,2019-03-07 10:58:06
+single,谷歌{{actor:Duplex}}个人助理{{action:入驻}}苹果{{recipient:iPhone}},2019-03-07 10:52:57
+con,ori,{{actor:搜狗}}{{actor:王小川}},{{action:加大}}{{object:公共数据开放力度}},{{action:开展}}{{object:AI民生应用}},2019-03-07 10:51:09
+single,{{actor:特斯拉超级工厂}}一期工程建设{{action:敲定}}{{recipient:上海建工集团}},2019-03-07 10:48:50
+single,{{actor:京东}}平台{{object:服务类产品}}{{attribute:两年}}{{action:增长}}超{{attribute:12倍}},2019-03-07 10:17:51
+single,{{actor:华为}}{{action:起诉}}{{recipient:美国政府}}{{object:销售限制法案违宪}},2019-03-07 10:05:16
+single,{{actor:京东物流}}与{{recipient:北京华鸿}}{{action:共建}}{{object:医药物流生态网络}},2019-03-07 09:51:22
+single,{{actor:三星}}{{action:否认}}在评估对{{recipient:恩智浦}}发出{{object:收购}},2019-03-07 09:47:05
+single,{{actor:李彦宏}}{{action:不再担任}}{{recipient:百度投资管理有限公司}}{{object:董事}},2019-03-07 09:30:46
+ori,{{actor:谷歌}}{{action:推出}}{{recipient:Coral}}平台,为{{recipient:开发者}}{{action:提供}}{{object:物联网AI解决方案}},2019-03-07 09:13:02
+single,{{actor:阿里巴巴}}与{{recipient:NBA}}{{action:升级}}{{object:中国合作伙伴关系}},2019-03-07 09:08:49
+con,《{{object:中国中产女性消费报告}}》,超{{attribute:四成}}{{actor:中产女性}}{{object:收入}}年{{action:增}}约{{attribute:20%}},2019-03-07 09:07:11
+ori,{{actor:三星}}若{{action:竞购}}{{recipient:恩智浦半导体}},{{object:交易价}}最高达{{attribute:444亿美元}},2019-03-07 08:49:45
+res,为{{action:迎接}}{{recipient:科创板}},约{{attribute:13家}}{{actor:券商}}{{action:上线}}{{object:开户预约功能}},2019-03-07 08:33:16
+single,{{actor:库克}}去年{{actor:苹果新员工}}一半{{action:没有}}{{object:本科学历}},2019-03-07 08:29:28
+single,{{actor:Facebook}}获准在法院裁决前{{action:不必提交}}{{object:隐私保护数据}},2019-03-07 08:11:27
+non,{{actor:中央通讯社}},{{actor:IBM}}将在{{recipient:台北}}{{action:建立}}{{object:客户体验中心}},2019-03-07 08:01:12
+single,{{actor:三星电子}}{{action:考虑竞购}}{{recipient:恩智浦半导体}},2019-03-07 07:58:44
+ori,{{actor:法国}}宣布对{{recipient:互联网企业}}{{action:开征}}{{attribute:3%}}{{object:数字税}},{{actor:谷歌}}{{actor:亚马逊}}{{actor:Facebook}}在列,2019-03-07 07:57:33
+ori,{{actor:如涵控股}}{{action:递交}}{{object:赴美IPO招股书}},{{actor:阿里}}{{action:持股}}超{{attribute:8%}},2019-03-07 07:51:50
+single,{{actor:Mozilla}}等多家公司{{action:停止}}在{{recipient:Facebook}}{{object:投放广告}},2019-03-07 07:45:06
+single,{{actor:戴姆勒}}与{{recipient:宝马}}{{action:联手}}开发{{object:自动驾驶技术}}并制定{{object:行业标准}},2019-03-07 07:42:23
+ori,{{actor:特斯拉}}{{object:中国业务}}{{action:难盈利}},{{actor:投资者}}应{{action:降低}}{{object:期望值}},2019-03-07 07:40:39
+single,公司投资的{{actor:寒武纪}}{{actor:探讨}}企业正积极探讨{{object:登陆科创板可能性}},2019-03-07 07:37:16
+non,{{actor:普华永道}},{{attribute:2018年}}{{actor:中国医院}}{{action:并购}}{{object:规模}}{{attribute:241亿元}},2019-03-07 07:28:21
+single,调查显示{{actor:Facebook}}自2017年来{{action:流失}}{{attribute:1500万}}{{object:美国用户}},2019-03-07 07:25:25
+single,{{actor:特斯拉}}、{{actor:Facebook}}的{{object:声誉排名}}直线{{action:下降}},2019-03-07 07:22:52
+single,{{actor:双向严选}}{{action:加盟}}平台“{{recipient:加盟家}}”{{action:获}}{{attribute:500万元}}{{object:天使轮融资}},2019-03-07 07:21:08
+single,{{actor:亚马逊}}的{{object:联合医疗保险公司}}{{action:命名}}为“{{recipient:避风港}}”,2019-03-07 07:17:48
+ori,{{actor:苹果}}{{action:发布}}{{object:供应商报告}},{{object:清洁水项目}}{{action:扩大}}到{{attribute:116家}}{{object:供应商}},2019-03-07 07:15:22
+single,{{actor:苹果}}称三年内将在{{recipient:圣地亚哥}}{{action:招募}}{{attribute:1200人}},2019-03-07 07:11:38
+con,{{actor:亚马逊}}发言人,{{actor:将关闭}}所有{{attribute:87家}}{{recipient:美国}}”{{recipient:快闪店}}”,2019-03-07 07:05:24
+single,{{actor:5G全息影像通信}}{{action:成功演示}},2019-03-06 20:56:18
+single,{{actor:承泰科技}}{{action:获投}}{{attribute:数千万元人民币}}{{object:A轮融资}},2019-03-06 20:23:57

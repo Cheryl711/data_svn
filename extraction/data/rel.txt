@@ -1,0 +1,6 @@
+single
+ori
+res
+mto
+non
+con

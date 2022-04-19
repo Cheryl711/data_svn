@@ -1,0 +1,14 @@
+B-actor
+I-actor
+B-action
+I-action
+B-recipient
+I-recipient
+B-object
+I-object
+B-attribute
+I-attribute
+O
+X
+[SEP]
+[CLS]
