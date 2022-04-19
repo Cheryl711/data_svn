@@ -7,13 +7,13 @@
 * Interface（Flask）  
     > server1.py 
 * ***Domain entity recognition algorithm***
-    > /ast_html/classtification.py  [html_classify()]
+    > /ast_html/classtification.py     *[html_classify()]*
     * Data
         > /ast_html/html_labeled_0428updata.json
 * ***Domain relationship extraction algorithm***
-    > /extraction/mapping.py  [classify_whole()/classify_single()] 
+    > /extraction/mapping.py      *[classify_whole()/classify_single()]*
     
-    > /classification/classify.py  [get_scope_classify()]
+    > /classification/classify.py      *[get_scope_classify()]*
     * Data
         > 36Kr_history_encoded.txt
 * ***DVC extraction algorithm***
